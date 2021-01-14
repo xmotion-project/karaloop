@@ -6,7 +6,9 @@ Can you imagine people interacting with phones, tablets, computers and other dev
 
 The **xMotion Project** is an initiative to advance the development of accessible wearable hands-free interfaces that will allow anyone to interact with any device, *without hands*, simply by performing movements of the face :relaxed:
 
-The primary goal of xMotion is to enable ubiquitous human-device interaction to all - regardles of physical abilities and environmental constrains.   
+The primary goal of xMotion is to enable ubiquitous human-device interaction for all - regardles of physical abilities and environmental constrains.   
+
+(include video)
 
 ## Contents of this repository
 
@@ -18,9 +20,9 @@ can be connected to software on your computer (e.g. Flash, Processing and MaxMSP
 The boards can be assembled by hand or purchased preassembled; the open-source
 IDE can be downloaded for free at [https://arduino.cc](https://www.arduino.cc/en/Main/Software)
 
-<!--## More info at
+## Details of xMotion interfaces at
 
-<!---  [Our website](https://www.arduino.cc/)
+[Our wiki](https://www.arduino.cc/)
 
 <!---  [The forums](https://forum.arduino.cc/)
 
@@ -75,19 +77,17 @@ the wiki:
 -   <https://github.com/arduino/Arduino/wiki/Building-Arduino>
 -   <https://github.com/arduino/Arduino/wiki/Testing-Arduino>
 
-<!--## Credits
+## Repository status
 
-<!--Arduino is an open source project, supported by many.
+All contents is private and confidential until decided otherwise. 
 
-<!--The Arduino team is composed of Massimo Banzi, David Cuartielles, Tom Igoe
-and David A. Mellis.
+## Credits
 
-<!--Arduino uses
-[GNU avr-gcc toolchain](https://gcc.gnu.org/wiki/avr-gcc),
-[GCC ARM Embedded toolchain](https://launchpad.net/gcc-arm-embedded),
-[avr-libc](https://www.nongnu.org/avr-libc/),
-[avrdude](https://www.nongnu.org/avrdude/),
-[bossac](http://www.shumatech.com/web/products/bossa),
-[openOCD](http://openocd.org/)
-and code from [Processing](https://www.processing.org)
-and [Wiring](http://wiring.org.co).
+xMotion is sponsored by Fondation Privée des HUG and Wyss Center through grants awarded to Ferran Galán at University of Geneva.
+
+The xMotion team is composed of Ahmad Jafaar, Quentin Praz, Spiros Schoinas and Philippe Passeraub from HEPIA, and Ferran Galán from University of Geneva.
+
+## All xMotion interfaces use
+[Arduino IDE](https://www.arduino.cc/en/software),
+[Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all), and
+[Arduino BSP for Adafruit Bluefruit nRF52 series](https://github.com/adafruit/Adafruit_nRF52_Arduino),
