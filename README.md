@@ -6,13 +6,14 @@ Can you imagine people interacting with phones, tablets, computers and other dev
 
 The **xMotion Project** is an initiative to advance the development of accessible wearable hands-free interfaces that will allow anyone to interact with any device, *without hands*, simply by performing movements of the face :relaxed:
 
-The primary goal of xMotion is to enable ubiquitous human-device interaction for all - regardles of physical abilities and environmental constrains.   
+The primary goal of xMotion is to enable ubiquitous human-device interaction to all - regardles of physical abilities and environmental constrains.   
 
 (include video)
 
 ## Contents of this repository
 
-<!--This repository contains just the code for the Arduino IDE itself.
+This repository contains a collection of wearable orofacial hands-free 
+interface designs developed  .
 Originally, it also contained the AVR and SAM Arduino core and libraries
 (i.e.  the code that is compiled as part of a sketch and runs on the
 actual Arduino device), but those have been moved into their own
@@ -29,28 +30,26 @@ build process and included in built releases, though.
     board manager. Their repositories can also be found under
     <https://github.com/arduino/>.
 
-<!--## Building and testing
-
 <!--Instructions for building the IDE and running unit tests can be found on
 the wiki:
 -   <https://github.com/arduino/Arduino/wiki/Building-Arduino>
 -   <https://github.com/arduino/Arduino/wiki/Testing-Arduino>
 
-## Details of xMotion interfaces on
+## Details on each xMotion design are on
 
 [Our wiki](https://www.arduino.cc/)
 
-## Repository status
+## All xMotion interfaces use
 
-All contents is private and confidential until decided otherwise. 
+[Arduino IDE](https://www.arduino.cc/en/software),
+[Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all), and
+[Arduino BSP for Adafruit Bluefruit nRF52 series](https://github.com/adafruit/Adafruit_nRF52_Arduino)
 
 ## Credits
 
 xMotion is sponsored by Fondation Privée des HUG and Wyss Center through grants awarded to Ferran Galán at University of Geneva.
-
 The xMotion team is composed of Ahmad Jafaar, Quentin Praz, Spiros Schoinas and Philippe Passeraub from HEPIA, and Ferran Galán from University of Geneva.
 
-## All xMotion interfaces use
-[Arduino IDE](https://www.arduino.cc/en/software),
-[Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all), and
-[Arduino BSP for Adafruit Bluefruit nRF52 series](https://github.com/adafruit/Adafruit_nRF52_Arduino),
+## Repository status
+
+All contents is private and confidential until decided otherwise. 
