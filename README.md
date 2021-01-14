@@ -32,8 +32,9 @@ build process and included in built releases, though.
 
 ## Credits
 
-xMotion is sponsored by Fondation Privée des HUG and Wyss Center through grants awarded to Ferran Galán at University of Geneva.
-The xMotion team is composed of Ahmad Jafaar, Quentin Praz, Spiros Schoinas and Philippe Passeraub from HEPIA, and Ferran Galán from University of Geneva.
+xMotion is sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán.
+
+The xMotion team is composed of Ahmad Jafaar, Quentin Praz, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
 ## Repository status
 
