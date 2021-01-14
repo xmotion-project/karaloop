@@ -13,16 +13,13 @@ The primary goal of xMotion is to enable ubiquitous human-device interaction to 
 ## Contents of this repository
 
 This repository contains a collection of wearable orofacial hands-free 
-interface designs developed  .
-Originally, it also contained the AVR and SAM Arduino core and libraries
-(i.e.  the code that is compiled as part of a sketch and runs on the
-actual Arduino device), but those have been moved into their own
-repositories.  They are still automatically downloaded as part of the
-build process and included in built releases, though.
+interfaces allowing ... 
+
+(tbc)
 
 ## Details on each xMotion design are on
 
-[Our wiki](https://www.arduino.cc/)
+[Our wiki](https://github.com/xmotion-project/xMotion/wiki)
 
 ## All xMotion interfaces use
 
@@ -39,3 +36,8 @@ The xMotion team is composed of Ahmad Jafaar, Quentin Praz, Spiros Schoinas and 
 ## Repository status
 
 All contents is private and confidential until decided otherwise. 
+
+## Contact
+
+Please direct any inquiries to ferran.galan@unige.ch 
+
