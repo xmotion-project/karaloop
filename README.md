@@ -12,12 +12,13 @@ The primary goal of xMotion is to enable ubiquitous human-device interaction to 
 
 ## Contents of this repository
 
-This repository contains a collection of wearable orofacial hands-free 
-interfaces allowing ... 
+This repository contains a collection of three wearable orofacial hands-free 
+interfaces which measure voluntary movements of the face and translates them 
+into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device. 
 
 (tbc)
 
-## Details on each xMotion design are on
+## Details on each xMotion interface are on
 
 [Our wiki](https://github.com/xmotion-project/xMotion/wiki)
 
