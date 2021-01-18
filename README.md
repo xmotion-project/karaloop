@@ -19,7 +19,7 @@ into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, i
 * [Model P1](https://github.com/xmotion-project/xMotion/wiki)
 * Model P2
 * Model P3
-* In Progress
+* *In Progress*
 
 ## All xMotion interfaces use
 
