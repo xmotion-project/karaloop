@@ -4,15 +4,15 @@
 
 Can you imagine people interacting with phones, tablets, computers and other devices without hands? 
 
-The **xMotion Project** is an initiative to advance the development of accessible wearable hands-free interfaces that will allow anyone to interact with any device, *without hands*, simply by performing movements of the face :relaxed:
+The **xMotion Project** is an initiative to advance the development of accessible wearable hands-free interfaces. Such interfaces will allow anyone to interact with any device, *without hands*, simply by performing movements of the face :relaxed:
 
-The primary goal of xMotion is to enable ubiquitous human-device interaction to all - regardles of physical abilities and environmental constrains.   
+The primary goal of xMotion is to enable ubiquitous human-device interaction to all - regardles of physical abilities and environmental constrains.    
 
 (include video)
 
 ## Contents of this repository
 
-This repository contains a collection of three wearable orofacial hands-free 
+This repository contains a collection of wearable orofacial hands-free 
 interfaces which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device. 
 
