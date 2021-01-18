@@ -16,13 +16,10 @@ This repository contains a collection of wearable orofacial hands-free
 interfaces which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device. 
 
-* Model P1
+* [Model P1](https://github.com/xmotion-project/xMotion/wiki)
 * Model P2
 * Model P3
-
-## Details on each xMotion interface are on
-
-[Our wiki](https://github.com/xmotion-project/xMotion/wiki)
+* In Progress
 
 ## All xMotion interfaces use
 
