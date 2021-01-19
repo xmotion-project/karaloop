@@ -6,7 +6,7 @@ Can you imagine people interacting with phones, tablets, computers and other dev
 
 The **xMotion Project** is an initiative to advance the development of accessible wearable hands-free interfaces. Such interfaces will allow anyone to interact with any device, *without hands*, simply by performing movements of the face :relaxed:
 
-The primary goal of xMotion is to enable ubiquitous human-device interaction to all - regardles of physical abilities and environmental constrains.    
+The primary goal of xMotion is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains.    
 
 (include video)
 
@@ -19,10 +19,9 @@ into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, i
 * [Model P1](https://github.com/xmotion-project/xMotion/wiki)
 * Model P2
 * Model P3
-* *Prequels*
 * *In Progress*
 
-## All xMotion interfaces use
+## xMotion interfaces use
 
 [Arduino IDE](https://www.arduino.cc/en/software),
 [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all), and
