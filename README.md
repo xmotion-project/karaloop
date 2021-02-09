@@ -8,8 +8,6 @@ The **xMotion Project** is an initiative to advance the development of accessibl
 
 The primary goal of xMotion is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains. Learn more about it [here](https://github.com/xmotion-project/xMotion/wiki).    
 
-(include video)
-
 ## Contents of this repository
 
 This repository contains a collection of wearable orofacial hands-free 
