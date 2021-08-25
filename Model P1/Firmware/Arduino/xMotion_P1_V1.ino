@@ -4,10 +4,10 @@
 #include <SoftwareSerial.h> 
 
 // Objects
-movingAvg avgTemp(5);               // define the moving average object
+movingAvg avgTemp(5);               // Define the moving average object
 
 // Globales variables
-int ADC_res = 12;     //ADC resolution, Can be 8, 10, 12 or 14
+int ADC_res = 12;     // ADC resolution, Can be 8, 10, 12 or 14
 int A0_output;
 int A1_output;
 int A2_output;
@@ -29,7 +29,7 @@ void setup() {
   pinMode(19, OUTPUT);
 }
 
-// the loop function runs over and over again forever
+// The loop function runs over and over again forever
 void loop() {
   
 A0_output = analogRead(ADC0);
