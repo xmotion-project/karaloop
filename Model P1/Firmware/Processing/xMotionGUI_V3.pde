@@ -1,11 +1,11 @@
 // ------------------------------------------------------------------------------------
-// libraries
+// Libraries
 import grafica.*;
 import controlP5.*;
 import processing.serial.*;
 
 // ------------------------------------------------------------------------------------
-// global variables
+// Global variables
 int seuil1 = 2000;
 int seuil2 = 1000;
 int seuil3 = 3000;
@@ -29,12 +29,12 @@ int A2;
 int A5;
 String [] sensor = new String [4];
 
-// serial event
+// Serial event
 boolean newData = false;
 String inString;  // Input string from serial port
 
 
-// objects
+// Objects
 ControlP5 cp5;
 CheckBox checkbox;
 GPointsArray points;
@@ -259,7 +259,7 @@ void Init_graph() {
 }
 
 // ------------------------------------------------------------------------------------
-// controlEvent : Get informations of CP5 
+// ControlEvent : Get informations of CP5 
 //-------------------------------------------------------------------------------------
 void controlEvent(ControlEvent theControlEvent) {
 
@@ -305,7 +305,7 @@ void serialEvent(Serial myPort) {
 
 /*
 // ------------------------------------------------------------------------------------
- // Test de connection entre le dispositif et le programme
+ // Test connection with the device
  //-------------------------------------------------------------------------------------
  boolean connect( int limit){
  int tries = 0;
