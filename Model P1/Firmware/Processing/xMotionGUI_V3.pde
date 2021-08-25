@@ -51,13 +51,13 @@ void setup()
 
   myPort = new Serial(this, "COM14", 9600);
   myPort.bufferUntil('\n'); 
-  println((Object[])Serial.list()); // Imprime liste ports actifs 
+  println((Object[])Serial.list()); // Print active ports
 
   cp5 = new ControlP5(this);
   points = new GPointsArray(nPoints);
 
   // Change the actual font
-  PFont pfont = createFont("Arial", 10, true); // use true/false for smooth/no-smooth
+  PFont pfont = createFont("Arial", 10, true); // Use true/false for smooth/no-smooth
   ControlFont font = new ControlFont(pfont, 25);
 
   // Add a new tab
@@ -121,7 +121,7 @@ void draw()
     text(String.format("%d", seuil6), 1363, 637);
 
 
-    //affichage des indicateurs de seuil
+    //Display thresholds
     strokeWeight(2);
     if (A0>seuil1) {
       fill(0, 255, 0);
@@ -148,7 +148,7 @@ void draw()
     }
     ellipse(1382, 680, 40, 40); //P4
 
-    //affichage des graphs
+    //Plot signals
     for (int i = 0; i<6; i++)
     {    
       plots[i].beginDraw();
@@ -163,7 +163,7 @@ void draw()
       plots[i].endDraw();
     }
 
-    // affichage des lines correspondant aux seuils définis  
+    // Display set thresholds 
     float offset_seuil1 = map(seuil1, 0, 4095, 315, 115);
     float offset_seuil2 = map(seuil2, 0, 4095, 565, 365);
     float offset_seuil3 = map(seuil3, 0, 4095, 815, 615);
@@ -181,7 +181,7 @@ void draw()
       inc=0;
     }
 
-    // Add and remove point the point  
+    // Add and remove data points 
     if ( millis() > previousMillis + duration) 
     {   
       inc++;
@@ -207,7 +207,7 @@ void draw()
 }
 
 // ------------------------------------------------------------------------------------
-// Init_graph : Initializing graphics
+// Init_graph : Initializing plots
 //-------------------------------------------------------------------------------------
 void Init_graph() {
   int espacementX = 0;
@@ -248,10 +248,10 @@ void Init_graph() {
     //plot.getXAxis().setAxisLabelText("x axis");
     plots[i].getYAxis().setAxisLabelText("N bits");
 
-    plots[i].setXLim(0, nPoints);   // set x limits
-    plots[i].setYLim(0, 4095); // set y limits
+    plots[i].setXLim(0, nPoints);   // Set x limits
+    plots[i].setYLim(0, 4095); // Set y limits
 
-    plots[i].setDim(500, 200); // set dimension of the plot
+    plots[i].setDim(500, 200); // Set dimension of the plot
 
     // Add the two set of points to the plot
     plots[i].setPoints(points);
@@ -287,11 +287,11 @@ void controlEvent(ControlEvent theControlEvent) {
 //-------------------------------------------------------------------------------------
 void serialEvent(Serial myPort) {
 
-  inString = myPort.readString(); // get new value from serial port
+  inString = myPort.readString(); // Get new value from serial port
 
   if (inString != null) { 
 
-    sensor = inString.trim().split(";"); //split and remove withespace from string
+    sensor = inString.trim().split(";"); //Split and remove withespace from string
 
     // analogue channel assignement
     A0 = int(sensor[0]);
