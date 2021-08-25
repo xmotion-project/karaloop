@@ -1,7 +1,4 @@
-// xMotion P1.V1
-// 09.12.2019
-
-// Librairies
+// Libraries
 #include <Arduino.h>
 #include <movingAvg.h>
 #include <SoftwareSerial.h> 
