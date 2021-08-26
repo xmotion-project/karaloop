@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name Lt1789)(type Legacy)(uri "C:/Users/ahmad.jaafar/switchdrive/xMotion UNIGE - HEPIA/R&D/xMotion 1/Design/kicad xMotion/library_xMotion/LT1789CS8-1TRPBF.lib")(options "")(descr ""))
+  (lib (name LP3878)(type Legacy)(uri "C:/Users/ahmad.jaafar/switchdrive/xMotion UNIGE - HEPIA/R&D/xMotion 1/Design/kicad xMotion/library_xMotion/LP3878MR-ADJ.lib")(options "")(descr ""))
+  (lib (name second_channel_half_bridge-rescue)(type Legacy)(uri ${KIPRJMOD}/second_channel_half_bridge-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name AJ_Library_1)(type Legacy)(uri ${KIPRJMOD}/AJ_Library_1.lib)(options "")(descr ""))
+  (lib (name test_1_3_04_2020-rescue)(type Legacy)(uri ${KIPRJMOD}/test_1_3_04_2020-rescue.lib)(options "")(descr ""))
+)

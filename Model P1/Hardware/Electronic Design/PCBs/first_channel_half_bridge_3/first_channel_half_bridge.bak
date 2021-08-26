@@ -1,0 +1,288 @@
+EESchema Schematic File Version 4
+LIBS:first_channel_half_bridge-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Lt1789:LT1789CS8-1TRPBF U2
+U 1 1 5D8C7368
+P 6100 3950
+F 0 "U2" H 6900 4315 50  0000 C CNN
+F 1 "LT1789CS8-1TRPBF" H 6900 4224 50  0000 C CNN
+F 2 "xMotion:SO-8_S" H 6100 3950 50  0001 L BNN
+F 3 "" H 6100 3950 50  0001 L BNN
+F 4 "Linear Technology" H 6100 3950 50  0001 L BNN "Champ4"
+F 5 "LT1789CS8-1#TRPBFCT-ND" H 6100 3950 50  0001 L BNN "Champ5"
+F 6 "https://www.digikey.ch/product-detail/en/linear-technology-analog-devices/LT1789CS8-1-TRPBF/LT1789CS8-1-TRPBFCT-ND/7916882?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" H 6100 3950 50  0001 L BNN "Champ6"
+F 7 "LT1789CS8-1#TRPBF" H 6100 3950 50  0001 L BNN "Champ7"
+F 8 "SO-8 Linear Technology" H 6100 3950 50  0001 L BNN "Champ8"
+	1    6100 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L first_channel_half_bridge-rescue:3214W-1-102E-xMotion-second_channel_half_bridge-rescue U3
+U 1 1 5D8C7B7F
+P 7100 3150
+F 0 "U3" H 7350 2535 50  0000 C CNN
+F 1 "3214W-1-102E" H 7350 2626 50  0000 C CNN
+F 2 "xMotion:3214W-1-102E" H 7100 3150 50  0001 C CNN
+F 3 "" H 7100 3150 50  0001 C CNN
+	1    7100 3150
+	-1   0    0    1   
+$EndComp
+$Comp
+L first_channel_half_bridge-rescue:3214W-1-102E-xMotion-second_channel_half_bridge-rescue U1
+U 1 1 5D8C87CE
+P 3950 3550
+F 0 "U1" H 4200 2935 50  0000 C CNN
+F 1 "3214W-1-102E" H 4200 3026 50  0000 C CNN
+F 2 "xMotion:3214W-1-102E" H 3950 3550 50  0001 C CNN
+F 3 "" H 3950 3550 50  0001 C CNN
+	1    3950 3550
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5D8C9169
+P 5650 4600
+F 0 "#PWR0101" H 5650 4350 50  0001 C CNN
+F 1 "GND" H 5655 4427 50  0000 C CNN
+F 2 "" H 5650 4600 50  0001 C CNN
+F 3 "" H 5650 4600 50  0001 C CNN
+	1    5650 4600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 4250 5650 4250
+Wire Wire Line
+	5650 4250 5650 4600
+$Comp
+L Device:R R3
+U 1 1 5D8C983F
+P 5400 3050
+F 0 "R3" H 5470 3096 50  0000 L CNN
+F 1 "350" H 5470 3005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 5330 3050 50  0001 C CNN
+F 3 "~" H 5400 3050 50  0001 C CNN
+	1    5400 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5D8CA15B
+P 5400 3550
+F 0 "R4" H 5470 3596 50  0000 L CNN
+F 1 "350" H 5470 3505 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 5330 3550 50  0001 C CNN
+F 3 "~" H 5400 3550 50  0001 C CNN
+	1    5400 3550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5D8CAAFC
+P 8350 4400
+F 0 "R6" H 8420 4446 50  0000 L CNN
+F 1 "1k" H 8420 4355 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 8280 4400 50  0001 C CNN
+F 3 "~" H 8350 4400 50  0001 C CNN
+	1    8350 4400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5D8CB1F5
+P 8350 4100
+F 0 "R5" H 8420 4146 50  0000 L CNN
+F 1 "1k" H 8420 4055 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 8280 4100 50  0001 C CNN
+F 3 "~" H 8350 4100 50  0001 C CNN
+	1    8350 4100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5D8CB4ED
+P 8350 4550
+F 0 "#PWR0102" H 8350 4300 50  0001 C CNN
+F 1 "GND" H 8355 4377 50  0000 C CNN
+F 2 "" H 8350 4550 50  0001 C CNN
+F 3 "" H 8350 4550 50  0001 C CNN
+	1    8350 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7700 4250 8350 4250
+Connection ~ 8350 4250
+Wire Wire Line
+	7700 4150 7850 4150
+Wire Wire Line
+	7850 4150 7850 4650
+Text GLabel 7850 4650 3    50   Input ~ 10
+A0
+$Comp
+L Device:R R1
+U 1 1 5D8CBD92
+P 4800 3050
+F 0 "R1" H 4870 3096 50  0000 L CNN
+F 1 "350" H 4870 3005 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 4730 3050 50  0001 C CNN
+F 3 "~" H 4800 3050 50  0001 C CNN
+	1    4800 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5D8CC2E3
+P 4800 3550
+F 0 "R2" H 4870 3596 50  0000 L CNN
+F 1 "350" H 4870 3505 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 4730 3550 50  0001 C CNN
+F 3 "~" H 4800 3550 50  0001 C CNN
+	1    4800 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5400 2900 5400 2800
+Wire Wire Line
+	5400 2800 5100 2800
+Wire Wire Line
+	4800 2800 4800 2900
+Wire Wire Line
+	4800 3200 4800 3300
+Wire Wire Line
+	5400 3200 5400 3300
+Wire Wire Line
+	5400 3700 5400 3800
+Wire Wire Line
+	4800 3700 4800 3800
+Wire Wire Line
+	4800 3800 5100 3800
+$Comp
+L power:GND #PWR0103
+U 1 1 5D8CD36D
+P 5100 3900
+F 0 "#PWR0103" H 5100 3650 50  0001 C CNN
+F 1 "GND" H 5105 3727 50  0000 C CNN
+F 2 "" H 5100 3900 50  0001 C CNN
+F 3 "" H 5100 3900 50  0001 C CNN
+	1    5100 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5100 3800 5100 3900
+Connection ~ 5100 3800
+Wire Wire Line
+	5100 3800 5400 3800
+Wire Wire Line
+	4800 3300 4450 3300
+Connection ~ 4800 3300
+Wire Wire Line
+	4800 3300 4800 3400
+Wire Wire Line
+	3200 3400 3200 3900
+Wire Wire Line
+	3200 3400 3450 3400
+$Comp
+L power:GND #PWR0104
+U 1 1 5D8CE36A
+P 3200 3900
+F 0 "#PWR0104" H 3200 3650 50  0001 C CNN
+F 1 "GND" H 3205 3727 50  0000 C CNN
+F 2 "" H 3200 3900 50  0001 C CNN
+F 3 "" H 3200 3900 50  0001 C CNN
+	1    3200 3900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3450 3200 3200 3200
+Wire Wire Line
+	3200 3200 3200 2800
+Wire Wire Line
+	3200 2800 4800 2800
+Connection ~ 4800 2800
+Wire Wire Line
+	5100 2800 5100 2700
+Connection ~ 5100 2800
+Wire Wire Line
+	5100 2800 4800 2800
+Text GLabel 5100 2700 1    50   Input ~ 10
+1V
+Wire Wire Line
+	6100 4150 5700 4150
+Wire Wire Line
+	5700 4150 5700 3300
+Wire Wire Line
+	5700 3300 5400 3300
+Connection ~ 5400 3300
+Wire Wire Line
+	5400 3300 5400 3400
+Wire Wire Line
+	5350 4050 5350 4300
+Wire Wire Line
+	5350 4300 4450 4300
+Wire Wire Line
+	4450 4300 4450 3300
+Wire Wire Line
+	5350 4050 6100 4050
+Connection ~ 4450 3300
+Wire Wire Line
+	4450 3300 3950 3300
+Wire Wire Line
+	6600 3000 6400 3000
+$Comp
+L power:GND #PWR0105
+U 1 1 5D8D1897
+P 6400 3000
+F 0 "#PWR0105" H 6400 2750 50  0001 C CNN
+F 1 "GND" H 6405 2827 50  0000 C CNN
+F 2 "" H 6400 3000 50  0001 C CNN
+F 3 "" H 6400 3000 50  0001 C CNN
+	1    6400 3000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 3950 6000 3950
+Wire Wire Line
+	6000 3950 6000 2800
+Wire Wire Line
+	6000 2800 6600 2800
+Wire Wire Line
+	7100 2900 7800 2900
+Wire Wire Line
+	7800 2900 7800 3950
+Wire Wire Line
+	7800 3950 7700 3950
+Wire Wire Line
+	7700 4050 8000 4050
+Wire Wire Line
+	8000 4050 8000 3800
+Wire Wire Line
+	8000 3800 8350 3800
+Wire Wire Line
+	8350 3800 8350 3950
+Wire Wire Line
+	8350 3800 8350 3550
+Connection ~ 8350 3800
+Text GLabel 8350 3550 1    50   Input ~ 10
+5V
+Text Notes 7100 6800 0    79   Italic 16
+xMotion Project - P1
+Text Notes 7400 7500 0    59   ~ 0
+First Channel wheatstone half bridge
+Text Notes 8150 7650 0    59   ~ 0
+16.01.2020
+Text Notes 7100 7050 0    59   Italic 0
+Designed by Ahmad Jaafar
+$EndSCHEMATC

@@ -1,0 +1,22 @@
+Designator;Val;Package;Mid X;Mid Y;Rotation;Layer
+C2;100n;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-82.296;90;bottom
+C3;10u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;162.814;-82.296;90;bottom
+C4;100n;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;164.338;-82.296;90;bottom
+C5;4.7u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;165.862;-82.296;90;bottom
+C6;1u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-71.7;270;bottom
+C7;100n;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;167.386;-82.296;90;bottom
+C8;1u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-75.438;270;bottom
+C9;1u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;163.976;-79.756;0;bottom
+C10;100n;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-78.881;270;bottom
+C11;100n;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;166.606;-78.838;270;bottom
+Q2;BSS138;SOT-23;167.64;-75.184;90;bottom
+R1;4.7u;R_0603_1608Metric;167.386;-72.644;0;bottom
+R3;4.7u;R_0603_1608Metric;168.276;-78.9685;270;bottom
+R4;4.7u;R_0603_1608Metric;167.3605;-71.12;180;bottom
+U3;TLV70218DBVR;SOT-23-5_HandSoldering;163.976;-71.638;90;bottom
+U4;TLV70228DBVR;SOT-23-5_HandSoldering;163.976;-76.538;270;bottom
+C1;1u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-75.438;270;top
+Q1;BSS138;SOT-23;167.64;-75.2;90;top
+R2;4.7u;R_0603_1608Metric;167.386;-72.644;0;top
+U1;PMW3901;PMW3901MB;164.338;-80.772;90;top
+U2;TXB0104RUT;Texas_R_PUQFN-N12;164.338;-73.66;90;top

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name perpendicular_pcb-rescue)(type Legacy)(uri ${KIPRJMOD}/perpendicular_pcb-rescue.lib)(options "")(descr ""))
+  (lib (name perpendicular_pcb_2-rescue)(type Legacy)(uri ${KIPRJMOD}/perpendicular_pcb_2-rescue.lib)(options "")(descr ""))
+)

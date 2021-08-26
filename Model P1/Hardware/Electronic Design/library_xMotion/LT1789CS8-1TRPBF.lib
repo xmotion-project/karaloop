@@ -1,0 +1,34 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# LT1789CS8-1TRPBF
+#
+DEF LT1789CS8-1TRPBF U 0 40 Y Y 1 L N
+F0 "U" 614 359 50 H V L BNN
+F1 "LT1789CS8-1TRPBF" 590 259 50 H V L BNN
+F2 "SO-8_S" 0 0 50 H I L BNN
+F3 "LT1789 - Micropower, Single Supply Rail-to-Rail Output Instrumentation Amplifier" 0 0 50 H I L BNN
+F4 "Linear Technology" 0 0 50 H I L BNN
+F5 "LT1789CS8-1#TRPBFCT-ND" 0 0 50 H I L BNN
+F6 "https://www.digikey.ch/product-detail/en/linear-technology-analog-devices/LT1789CS8-1-TRPBF/LT1789CS8-1-TRPBFCT-ND/7916882?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol" 0 0 50 H I L BNN
+F7 "LT1789CS8-1#TRPBF" 0 0 50 H I L BNN
+F8 "SO-8 Linear Technology" 0 0 50 H I L BNN
+DRAW
+P 2 0 0 6 300 200 300 -500 N
+P 2 0 0 6 300 -500 1300 -500 N
+P 2 0 0 6 1300 -500 1300 200 N
+P 2 0 0 6 1300 200 300 200 N
+X RG_2 1 0 0 300 R 40 40 0 0 P 
+X -IN 2 0 -100 300 R 40 40 0 0 P 
+X +IN 3 0 -200 300 R 40 40 0 0 P 
+X -VS 4 0 -300 300 R 40 40 0 0 W 
+X REF 5 1600 -300 300 L 40 40 0 0 P 
+X OUT 6 1600 -200 300 L 40 40 0 0 O 
+X +VS 7 1600 -100 300 L 40 40 0 0 W 
+X RG 8 1600 0 300 L 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

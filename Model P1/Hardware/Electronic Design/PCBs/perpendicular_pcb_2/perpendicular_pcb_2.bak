@@ -1,0 +1,195 @@
+EESchema Schematic File Version 4
+LIBS:perpendicular_pcb_2-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text GLabel 4400 2750 0    50   Input ~ 0
+5V
+$Comp
+L Device:C C2
+U 1 1 5D8DC58D
+P 5050 3450
+F 0 "C2" H 5165 3496 50  0000 L CNN
+F 1 "10n" H 5165 3405 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 5088 3300 50  0001 C CNN
+F 3 "~" H 5050 3450 50  0001 C CNN
+	1    5050 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5D8DD5AC
+P 7150 3200
+F 0 "R1" H 7220 3246 50  0000 L CNN
+F 1 "100" H 7220 3155 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 7080 3200 50  0001 C CNN
+F 3 "~" H 7150 3200 50  0001 C CNN
+	1    7150 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR01
+U 1 1 5D8DDE25
+P 6250 4250
+F 0 "#PWR01" H 6250 4000 50  0001 C CNN
+F 1 "GND" H 6255 4077 50  0000 C CNN
+F 2 "" H 6250 4250 50  0001 C CNN
+F 3 "" H 6250 4250 50  0001 C CNN
+	1    6250 4250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5550 3750 5300 3750
+Wire Wire Line
+	5300 3750 5300 4200
+Wire Wire Line
+	5300 4200 6250 4200
+Wire Wire Line
+	6250 4200 6250 4250
+Wire Wire Line
+	5550 3650 5300 3650
+Wire Wire Line
+	5300 3650 5300 3750
+Connection ~ 5300 3750
+$Comp
+L Device:C C1
+U 1 1 5D8DF3A9
+P 4600 3450
+F 0 "C1" H 4715 3496 50  0000 L CNN
+F 1 "4.7u" H 4715 3405 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 4638 3300 50  0001 C CNN
+F 3 "~" H 4600 3450 50  0001 C CNN
+	1    4600 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5D8DFED6
+P 7150 3750
+F 0 "R2" H 7220 3796 50  0000 L CNN
+F 1 "10k" H 7220 3705 50  0000 L CNN
+F 2 "Resistor_SMD:R_0805_2012Metric" V 7080 3750 50  0001 C CNN
+F 3 "~" H 7150 3750 50  0001 C CNN
+	1    7150 3750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C3
+U 1 1 5D8E019F
+P 7650 3200
+F 0 "C3" H 7765 3246 50  0000 L CNN
+F 1 "0.15u" H 7765 3155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 7688 3050 50  0001 C CNN
+F 3 "~" H 7650 3200 50  0001 C CNN
+	1    7650 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C C4
+U 1 1 5D8E05B0
+P 8150 3200
+F 0 "C4" H 8265 3246 50  0000 L CNN
+F 1 "0.15u" H 8265 3155 50  0000 L CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric" H 8188 3050 50  0001 C CNN
+F 3 "~" H 8150 3200 50  0001 C CNN
+	1    8150 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5050 2900 5050 3300
+Wire Wire Line
+	5550 2900 5050 2900
+Wire Wire Line
+	5050 3600 5050 4200
+Wire Wire Line
+	5050 4200 5300 4200
+Connection ~ 5300 4200
+Wire Wire Line
+	4400 2750 4600 2750
+Wire Wire Line
+	4600 3300 4600 2750
+Connection ~ 4600 2750
+Wire Wire Line
+	4600 2750 5300 2750
+Wire Wire Line
+	4600 3600 4600 4200
+Wire Wire Line
+	4600 4200 5050 4200
+Connection ~ 5050 4200
+Wire Wire Line
+	6950 2750 7150 2750
+Wire Wire Line
+	7150 2750 7150 3050
+Wire Wire Line
+	7150 3450 7150 3350
+Wire Wire Line
+	6950 3450 7150 3450
+Wire Wire Line
+	7150 3600 7150 3450
+Connection ~ 7150 3450
+Wire Wire Line
+	7150 3900 7150 4200
+Wire Wire Line
+	7150 4200 6250 4200
+Connection ~ 6250 4200
+Wire Wire Line
+	7150 3450 7650 3450
+Wire Wire Line
+	7650 3450 7650 3350
+Wire Wire Line
+	7650 3050 7650 2750
+Wire Wire Line
+	7650 2750 7150 2750
+Connection ~ 7150 2750
+Wire Wire Line
+	8150 3350 8150 4200
+Wire Wire Line
+	7150 4200 8150 4200
+Connection ~ 7150 4200
+Wire Wire Line
+	7650 2750 8150 2750
+Wire Wire Line
+	8150 2750 8150 3050
+Connection ~ 7650 2750
+Wire Wire Line
+	8150 2750 8550 2750
+Connection ~ 8150 2750
+Text GLabel 8550 2750 2    50   Input ~ 0
+1V
+Wire Wire Line
+	5300 2750 5300 3150
+Wire Wire Line
+	5300 3150 5550 3150
+Connection ~ 5300 2750
+Wire Wire Line
+	5300 2750 5550 2750
+$Comp
+L LP3878MR-ADJ:LP3878MR-ADJ U?
+U 1 1 5E202215
+P 6250 3150
+F 0 "U?" H 6250 3920 50  0000 C CNN
+F 1 "LP3878MR-ADJ" H 6250 3829 50  0000 C CNN
+F 2 "SOIC127P600X168-8N" H 6250 3150 50  0001 L BNN
+F 3 "" H 6250 3150 50  0001 L BNN
+F 4 "Unavailable" H 6250 3150 50  0001 L BNN "Champ4"
+F 5 "Texas Instruments" H 6250 3150 50  0001 L BNN "Champ5"
+F 6 "SO-8 Texas Instruments" H 6250 3150 50  0001 L BNN "Champ6"
+F 7 "IC LP3878/SO/LP3878MR/ADJ NATIONAL SEMI RoHS SO" H 6250 3150 50  0001 L BNN "Champ7"
+F 8 "None" H 6250 3150 50  0001 L BNN "Champ8"
+	1    6250 3150
+	1    0    0    -1  
+$EndComp
+Text Notes 7100 6800 0    79   Italic 16
+xMotion Project - P1
+$EndSCHEMATC

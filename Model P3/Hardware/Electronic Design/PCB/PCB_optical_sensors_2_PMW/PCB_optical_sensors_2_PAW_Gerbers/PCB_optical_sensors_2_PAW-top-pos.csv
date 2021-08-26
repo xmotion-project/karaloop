@@ -1,0 +1,6 @@
+Designator;Val;Package;Mid X;Mid Y;Rotation;Layer
+C1;1u;C_0603_1608Metric_Pad1.05x0.95mm_HandSolder;161.29;-75.438;270;top
+Q1;BSS138;SOT-23;167.64;-75.2;90;top
+R2;4.7u;R_0603_1608Metric;167.386;-72.644;0;top
+U1;PAW3903E1;PAW3903E1;164.338;-80.772;90;top
+U2;TXB0104RUT;Texas_R_PUQFN-N12;164.338;-73.66;90;top
