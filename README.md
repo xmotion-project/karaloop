@@ -28,11 +28,11 @@ The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf5
 
 This project was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
-Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) have contributed to the first released contents in this repository.
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of the werable prototypes in this repository.
 
 ## Licenses
 
-We believe that the open source movement can foster mass technological inclusivity and accesibility. All (i.e. software, firmware, circuit schematics, CAD designs) source and and documentation files in this repository are licensed under [OSI-approved licenses](https://opensource.org/licenses/alphabetical). In general, software and firmware is licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive](https://ohwr.org/cern_ohl_p_v2.pdf), and documentation under (). See the copyright and license notices, along with the license files, in each subfolder   
+We believe that the open source movement can foster mass technological inclusivity and accesibility. All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses. In general, software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)] (https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and documentation such as assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). See the copyright and license notices, along with the license files, in each repository subfolder.   
 
 ## Contact
 
