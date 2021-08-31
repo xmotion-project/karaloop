@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/Logo.jpg" width="50%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="50%" />
 </p>
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
