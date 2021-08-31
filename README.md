@@ -1,7 +1,6 @@
 <p align="left">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="35%" />
-</p>
-<p align="right">
+</p><p align="right">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="35%" />
 </p>
 
