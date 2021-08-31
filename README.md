@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="35%" /> 
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="35%" />
 </p>
