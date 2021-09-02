@@ -1,8 +1,8 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="45%" /> 
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="45%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="45%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="45%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="40%" /> 
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="40%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="40%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="40%" />
 </p>
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
@@ -29,9 +29,9 @@ The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf5
 
 ## Credits
 
-This project was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/).// through grants // awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
+This project was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
-// Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva]  //(https://www.unige.ch/en/university/presentation/) contributed to the conception and development of the werable prototypes in this repository.
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva]  (https://www.unige.ch/en/university/presentation/) contributed to the conception and development of the werable prototypes in this repository.
 
 ## Licenses
 
