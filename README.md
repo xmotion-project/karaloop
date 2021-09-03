@@ -51,4 +51,4 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Contact
 
-Please send any feedback, comments, suggestions, or just say *Hi*, to karaloop[at]protonmail.com 
+Please send any feedback, comments, suggestions, or just say *Hi*, at **karaloop[at]protonmail.com** 
