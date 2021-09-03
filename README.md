@@ -35,7 +35,7 @@ The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf5
 
 ## Credits
 
-This project was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The prototype development work was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
 Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of the werable prototypes in this repository.
 
