@@ -1,4 +1,8 @@
 <p align="center">
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.gif" width="40%" />	
+</p>
+
+<p align="center">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="40%" /> 
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="40%" />
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="40%" />
