@@ -25,7 +25,8 @@ into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, i
 * [Model P3.0](https://github.com/xmotion-project/xMotion/wiki/Model-P3)
 * [*Work in Progress*](https://github.com/xmotion-project/xMotion/wiki/Work-in-Progress)
 
-Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges (Model P1.0, C), potentiometers and microswitches (Model P2.0, C), and magnetomers and optical flow sensors (Model P3.0, c and CL). The technology readiness level (TRL) also varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-2), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).       
+Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges (Model P1.0, C), potentiometers and microswitches (Model P2.0, C), and magnetomers and optical flow sensors (Model P3.0, c and CL). 
+The technology readiness level (TRL) also varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-2), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).       
 
 ## All prototypes in this repositoy use
 
