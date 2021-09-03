@@ -43,13 +43,8 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 
 We believe that the open source movement can foster mass technological inclusivity, accesibility and education. 
 
-All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses. Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and documentation included in README files, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
+All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses. Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and contents in README files, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
 
 ## Contact
 
 Please send us any feedback, comments, suggestions or inquiries to karaloop@protonmail.com 
-
-
-
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This documentation content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
