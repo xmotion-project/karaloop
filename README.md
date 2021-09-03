@@ -11,7 +11,7 @@
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
 
-**karaloop** is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
+The **karaloop** project is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
 
 The primary goal is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains.     
 
@@ -44,6 +44,10 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 We believe that the open source movement can foster mass technological inclusivity, accesibility and education. 
 
 All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses. Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and contents in README files, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
+
+## Trademark
+
+**KARALOOP** is a registered trademark by Ferran Galán.
 
 ## Contact
 
