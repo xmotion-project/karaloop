@@ -47,7 +47,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Trademark
 
-**KARALOOP** is a registered trademark by Ferran Galán.
+**KARALOOP** is a registered trademark.
 
 ## Contact
 
