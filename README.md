@@ -1,27 +1,27 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="35%" /> 
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="35%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="35%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="35%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="40%" /> 
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="40%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="40%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="40%" />
 </p>
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
 
 This project is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
 
-The primary goal is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains. Learn more about it [here](https://github.com/xmotion-project/xMotion/wiki).    
+The primary goal is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains.     
 
 ## Contents of this repository
 
 This repository contains a collection of wearable prototypes which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device.
 
-* [Model P1](https://github.com/xmotion-project/xMotion/wiki/Model-P1)
-* [Model P2](https://github.com/xmotion-project/xMotion/wiki/Model-P2)
-* [Model P3](https://github.com/xmotion-project/xMotion/wiki/Model-P3)
+* [Model P1.0](https://github.com/xmotion-project/xMotion/wiki/Model-P1)
+* [Model P2.0](https://github.com/xmotion-project/xMotion/wiki/Model-P2)
+* [Model P3.0](https://github.com/xmotion-project/xMotion/wiki/Model-P3)
 * [*Work in Progress*](https://github.com/xmotion-project/xMotion/wiki/Work-in-Progress)
 
-The technology readiness level (TRL) varies across prototypes. While models P1 and P2 are still in concept phase (TRL 1-2), model P3 has been preliminary evaluated in operational environments (TRL 6-7).     
+The technology readiness level (TRL) varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-2), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).        
 
 ## All prototypes in this repositoy use
 
@@ -41,5 +41,5 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Contact
 
-Please direct any inquiries to ferran.galan@protonmail.com 
+Please direct any inquiries to xxx@protonmail.com 
 
