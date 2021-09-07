@@ -20,14 +20,14 @@ The primary goal is to enable ubiquitous human-device interaction to all, regard
 This repository contains a collection of wearable prototypes which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device.
 
-* [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/Model-P1)
-* [karaloop P2.0](https://github.com/xmotion-project/xMotion/wiki/Model-P2)
-* [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/Model-P3)
+* [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0)
+* [karaloop P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0)
+* [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)
 * [*Work in Progress*](https://github.com/xmotion-project/xMotion/wiki/Work-in-Progress)
 
 Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges (Model P1.0, C), potentiometers and microswitches (Model P2.0, C), and magnetomers and optical flow sensors (Model P3.0, c and CL). 
 
-The technology readiness level (TRL) varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-2), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).       
+The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-3), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).       
 
 ## All prototypes in this repositoy use
 
@@ -51,4 +51,4 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Contact
 
-Please send any feedback, comments, suggestions, or just say *Hi*, at **karaloop[at]protonmail.com** 
+Please send any feedback, comments, suggestions, or just drop a line, at **karaloop[at]protonmail.com** 
