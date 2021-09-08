@@ -27,7 +27,7 @@ into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, i
 
 Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges (Model P1.0, C), potentiometers and microswitches (Model P2.0, C), and magnetomers and optical flow sensors (Model P3.0, c and CL). 
 
-The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While models P1.0 and P2.0 are still in concept phase (TRL 1-3), model P3.0 has been preliminary evaluated in operational environments (TRL 6-7).       
+The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While models P1.0 and P2.0 are still in feasibility evaluation and development phases (TRL 3-5), model P3.0 has been preliminary evaluated in operational environments (TRL 7).       
 
 ## All prototypes in this repositoy use
 
