@@ -52,3 +52,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 ## Contact
 
 Please send any feedback, comments, suggestions, or reach to us at **karaloop[at]protonmail.com** 
+
+<p align="right">
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="20%" />	
+</p>
