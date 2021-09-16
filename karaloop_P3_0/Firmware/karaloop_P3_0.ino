@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// Libraries
+// Librairies
 #include <Wire.h>
 #include <MLX90393.h>
 #include <stdlib.h>
@@ -174,7 +174,7 @@ void MagSwitch() {
       }
     }
   }
-  // Change mode between MOUSE to KEYBOARD
+  // Change mode between MOUSE and KEYBOARD
   if (((millis() - lastDebounceTimeMag) >= 1000) && reading_MagSwitch == 0 && mode == true) {
     MouseToKeyboard = !MouseToKeyboard;
     //Serial.println("test");
@@ -187,7 +187,7 @@ void MagSwitch() {
 //--------------------------------------------------------------------------------------//
 // Button 2 (DOWN) : Mouse ON/OFF
 // ON : Activate the mouse function
-// OFF : Desactivate the mouse function
+// OFF : Deactivate the mouse function
 //--------------------------------------------------------------------------------------//
 void MouseSwitch() {
 
@@ -226,9 +226,9 @@ void DisplayMag(void)
 }
 
 //--------------------------------------------------------------------------------------//
-// Adjustement MODE (switchMode = true) : turn ON LEDs when magnetic signals are inside
+// Adjustement MODE (switchMode = true) : turn ON LEDs when magnetic signals are within
 // the tolerance range
-// Verification MODE : (switchMode = false) : turn ON LEDs when magnetic signals are outside
+// Verification MODE : (switchMode = false) : turn ON LEDs when magnetic signals are not within
 // of Tmin and Tmax which are thresholds for detection
 //--------------------------------------------------------------------------------------//
 void Mag_adjustement(boolean switchMode)
@@ -257,15 +257,15 @@ void Mag_adjustement(boolean switchMode)
 }
 
 //--------------------------------------------------------------------------------------//
-// 1st button : Change mode between : adjustement and verification of both magnetometer
-// 2nd button : Activate/disactivate mouse function --> 1st time with a lower max speed
+// 1st button : Change mode between : adjustement and verification of both magnetometers
+// 2nd button : Activate/deactivate mouse function --> 1st time with a lower max speed
 // (5) and 2nd time with higer max speed (7.5)
-// When both button are push at the same time --> Change mode between mouse and keyboard
+// When both button are pushed at the same time --> Change mode between mouse and keyboard
 //--------------------------------------------------------------------------------------//
 void FrontButtons()
 {
 
-  // Is a changing state on buttons of the right Hub ?
+  // Is there a changing state on buttons of the right Hub ?
   MagSwitch();    //-- > 1st button
   MouseSwitch();  //-- > 2nd button
 
@@ -290,7 +290,7 @@ void FrontButtons()
         DisplayMag();
       }
 
-      //MOUSE MODE DISACTIVATE
+      //MOUSE MODE DEACTIVATE
       else {
         DisplayMag();
         if (Callonce == 0) {
@@ -321,7 +321,7 @@ void FrontButtons()
       //DisplayMag();
     }
 
-    //MOUSE MODE DISACTIVATE
+    //MOUSE MODE DEACTIVATE
     else {
       //DisplayMag();
       if (Callonce == 0) {

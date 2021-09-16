@@ -1,6 +1,5 @@
 //--------------------------------------------------------------------------------------//
-// Exponential transfert function for defining the speed of the cursor as a function 
-// of each magnetometers'amplitude
+// Exponential transfer function between magnetometers' signals amplitude and mouse pointer speed
 //--------------------------------------------------------------------------------------//
 float ExponentialSpeedMouse(float currentValue, boolean Direction)
 {

@@ -16,9 +16,9 @@ static float MouseGainRight = 1;
 static float MouseGainLeft = 1;
 
 //--------------------------------------------------------------------------------------//
-// Affect an action when magnetometers'signal are passing through a threshold
+// Mapping magnetometers signals with mouse functions
 // Mouse MODE : moving the pointer UP - DOWN and LEFT - RIGHT
-// Keyboard MODE : send keypress w for UP, s for DOWN, a for LEFT and d for RIGHT
+// Keyboard MODE : send keypress "w" for UP, "s" for DOWN, "a" for LEFT and "d" for RIGHT
 //--------------------------------------------------------------------------------------//
 void Decision(void)
 {
@@ -26,7 +26,7 @@ void Decision(void)
   static int shortDetection = 500;
   delayTime = millis();
 
-  // Détection d'un changement d'état
+  // Detecting state changes
   if (valueStateRight != OldvalueStateRight || valueStateLeft != OldvalueStateLeft) {
     state_change = true;
     stateDelay = false;

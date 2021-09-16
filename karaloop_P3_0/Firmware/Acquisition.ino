@@ -1,12 +1,12 @@
 //--------------------------------------------------------------------------------------//
-// Magnetometers'acquisition and classification related to thresholds
+// Magnetometers data acquisition and classification based on thresholds
 //--------------------------------------------------------------------------------------//
 void Acquisition(void)
 {
   float K_right = 1;
   float K_left = 1;
 
-  // Data acquisition from magnetometers
+  // Data acquisition
   mlx_right.readData(data_right);
   mlx_left.readData(data_left);
 
@@ -15,7 +15,7 @@ void Acquisition(void)
 
   //HP_filter();
 
-  // Defining the state of both sensor related to the position inside the guide
+  // Defining the state of both sensors respect their position within the guides
   if (current_value_right > Tmax && current_value_left > Tmax) { // Both at the bottom of the guide (MOUSE UP)
     valueStateRight = 1;
     valueStateLeft = 1;

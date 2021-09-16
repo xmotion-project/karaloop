@@ -12,9 +12,8 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// Library
-#include <bluefruit.h> 
-
+// Librairies
+#include <bluefruit.h>
 #define MOVE_STEP 10
 
 // Defining input
@@ -25,7 +24,7 @@ const int switch_right = 16;
 const int ledPin_left =  17;
 const int ledPin_right =  19;
 
-// Global variable
+// Global variables
 const int numReadings = 10;
 int readingsA0[numReadings];      // the readings from the analog input
 int readingsA1[numReadings];      // the readings from the analog input
@@ -90,13 +89,12 @@ BLEDis bledis;
 BLEHidAdafruit blehid;
 
 void setup() {
-  // put your setup code here, to run once:
   Serial.begin(115200);
   Init();
 }
 
 // ----------------------------------------------------------------------------------------
-//
+// Init Bluefruit
 // ----------------------------------------------------------------------------------------
 void Init()
 {
@@ -117,7 +115,7 @@ void Init()
   // Set up and start advertising
   startAdv();
 
-  // initialize all the readings to 0:
+  // Initialize all the readings to 0:
   for (int thisReadingA0 = 0; thisReadingA0 < numReadings; thisReadingA0++) {
     readingsA0[thisReadingA0] = 0;
   }
@@ -133,7 +131,7 @@ void Init()
 }
 
 // ----------------------------------------------------------------------------------------
-//
+// BT Advertising
 // ----------------------------------------------------------------------------------------
 void startAdv(void)
 {
@@ -164,45 +162,45 @@ void startAdv(void)
 }
 
 // ----------------------------------------------------------------------------------------
-//
+// Smooth potentiometers readings
 // ----------------------------------------------------------------------------------------
 
 void Potentiometers_Smooth()
 {
 
-  // subtract the last reading:
+  // Subtract the last reading:
   totalA0 = totalA0 - readingsA0[readIndex];
   totalA1 = totalA1 - readingsA1[readIndex];
 
-  // read from the sensor:
+  // Read from the sensor:
   readingsA0[readIndex] = analogRead(Wheel_left);
   readingsA1[readIndex] = analogRead(Wheel_right);
 
-  // add the reading to the total:
+  // Add the reading to the total:
   totalA0 = totalA0 + readingsA0[readIndex];
   totalA1 = totalA1 + readingsA1[readIndex];
 
-  // advance to the next position in the array:
+  // Advance to the next position in the array:
   readIndex = readIndex + 1;
 
-  // if we're at the end of the array...
+  // If we're at the end of the array...
   if (readIndex >= numReadings) {
     // ...wrap around to the beginning:
     readIndex = 0;
   }
 
-  // calculate the average and remove the offset to center around 0:
+  // Calculate the average and remove the offset to center around 0:
   averageA0 = (totalA0 / numReadings);
   averageA1 = (totalA1 / numReadings);
 
 }
 // ----------------------------------------------------------------------------------------
-//
+// Potentiomerters HP filter
 // ----------------------------------------------------------------------------------------
 void Potentiometers_HPfilter()
 {
 
-  // coefficient to modifiy the hp filter
+  // Coefficient to modifiy the hp filter
   EMA_a = 0.3;
 
   EMA_A0 = (EMA_a * averageA0) + ((1 - EMA_a) * EMA_A0); //run the EMA
@@ -225,17 +223,17 @@ void Potentiometers_HPfilter()
   }
   else {
     highpass1_cut = highpass1;
-  }   
+  }
 }
 
 // ----------------------------------------------------------------------------------------
-//
+// Detecting wheel movements movements
 // ----------------------------------------------------------------------------------------
 void Potentiometers_Detection()
 {
   HPthreshold = Tlim;
 
-  // Threshold for detecting movements
+  // Thresholds for detecting wheel movements
   VThigh = Tlim + 1 ;
   VTlow = -VThigh;
 
@@ -265,7 +263,7 @@ void Potentiometers_Detection()
 
   if ((highpass0_cut < VThigh) && (ValidState_right == 1) && (highpass0_cut > VTlow) && (periode_pos_right == periode_value_right) && (periode_neg_right == 0)) {
     OuptutWheel_right = periode_pos_right * wheel_dir_right;
-//    OuptutWheel_right = 0;
+//    OuputWheel_right = 0;
     zero_right = false;
   }
 
@@ -312,7 +310,7 @@ void Potentiometers_Detection()
 
   if ((highpass1_cut < VTlow) && (ValidState_left == 1) && (periode_pos_left == periode_value_left) && (periode_neg_left == 0)) {
 //    OuptutWheel_left = periode_pos_left * wheel_dir_left;
-    OuptutWheel_left = 0;    
+    OuptutWheel_left = 0;
     zero_left = true;
     ValidState_left = 0;
   }
@@ -338,8 +336,9 @@ void Potentiometers_Detection()
     ValidState_left = 0;
   }
 }
+
 // ----------------------------------------------------------------------------------------
-//
+// Mapping potentiometers to mouse translational function
 // ----------------------------------------------------------------------------------------
 void Potentiometers_classification()
 {
@@ -363,8 +362,8 @@ void Potentiometers_classification()
 
   // Lower Lips right --> Mouse X+
   if (OuptutWheel_left == 1 && OuptutWheel_right == 0)// && stateDelay == true)
-  { 
-      blehid.mouseMove(-MOVE_STEP, 0);  
+  {
+      blehid.mouseMove(-MOVE_STEP, 0);
   }
 
   // Lower Lips left  --> Mouse X-
@@ -388,7 +387,7 @@ void Potentiometers_classification()
 }
 
 // ----------------------------------------------------------------------------------------
-//
+// Mapping switches to mouse wheel function
 // ----------------------------------------------------------------------------------------
 void Switches()
 {
@@ -416,6 +415,9 @@ void Switches()
   }
 }
 
+// ----------------------------------------------------------------------------------------
+// Main loop
+// ----------------------------------------------------------------------------------------
 void loop() {
 
   tempTime = millis();
@@ -431,26 +433,27 @@ void loop() {
     Potentiometers_HPfilter();
     Potentiometers_Detection();
     Potentiometers_classification();
-//    Switches();
+    Switches();
 
     // Show signals
-    Serial.print(OuptutWheel_left);
-    Serial.print("\t");
-    Serial.print(OuptutWheel_right);
-    Serial.println("\t");
+
+//    Serial.print(OuptutWheel_left);
+//    Serial.print("\t");
+//    Serial.print(OuptutWheel_right);
+//    Serial.println("\t");
 //    Serial.print(counter);
 //    Serial.print("\t");
-//                Serial.println(displacement);
-    //            Serial.print("\t");
-    //            Serial.println(averageA1);
-    //    Serial.print("\t");
-//            Serial.println(EMA_A0);
-//            Serial.print("\t");
-//            Serial.println(EMA_A1);
-    //    Serial.print(highpass0);
-    //    Serial.print("\t");
-    //    Serial.println(highpass1);
-    //    Serial.print("\t");
+//    Serial.println(displacement);
+//    Serial.print("\t");
+//    Serial.println(averageA1);
+//    Serial.print("\t");
+//    Serial.println(EMA_A0);
+//    Serial.print("\t");
+//    Serial.println(EMA_A1);
+//    Serial.print(highpass0);
+//    Serial.print("\t");
+//    Serial.println(highpass1);
+//    Serial.print("\t");
 //    Serial.print(highpass1_cut);
 //    Serial.print("\t");
 //    Serial.println(highpass0_cut);

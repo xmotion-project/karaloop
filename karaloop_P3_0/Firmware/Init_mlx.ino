@@ -1,5 +1,5 @@
 //--------------------------------------------------------------------------------------//
-// Initialize the I2C communication for both magnetometer
+// Initialize the I2C communication for both magnetometers
 //--------------------------------------------------------------------------------------//
 void Init_mlx(void)
 {
@@ -30,7 +30,7 @@ void Init_mlx(void)
 
   mlx_left.reset();
   mlx_left.readData(data_left);
-  
+
   init_mlx_left = data_left.y;/*sqrt(pow(float(data_left.y), 2) + pow(float(data_left.z), 2));*/
   init_mlx_right = data_right.y; /*sqrt(pow(float(data_right.x), 2) + pow(float(data_right.y), 2));*/
 
