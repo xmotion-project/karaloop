@@ -32,12 +32,6 @@ The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_r
 
 The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
 
-## First contributors and sponsors
-
-The prototype development work shared in this repository was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (10.2018 - 04.2021) and [Wyss Center](https://wysscenter.ch/) (03.2019 - 09.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
-
-Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and I from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
-
 ## Licenses
 
 We believe that the open source movement can foster mass technological inclusivity, accesibility and education. 
@@ -47,6 +41,12 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 ## Trademark
 
 **KARALOOP** is a registered trademark.
+
+## On initial developers and sponsors
+
+The prototype development work shared in this repository was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (10.2018 - 04.2021) and [Wyss Center](https://wysscenter.ch/) (03.2019 - 09.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
+
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and I from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
 ## Contact
 
