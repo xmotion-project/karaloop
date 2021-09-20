@@ -32,6 +32,8 @@ The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_r
 
 The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
 
+## How to contribute to **karaloop**
+
 ## Licenses
 
 We believe that the open source movement can foster mass technological inclusivity, accesibility and education. 
@@ -42,7 +44,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 **KARALOOP** is a registered trademark.
 
-## On initial developers and sponsors
+## Credits
 
 The prototype development work shared in this repository was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (10.2018 - 04.2021) and [Wyss Center](https://wysscenter.ch/) (03.2019 - 09.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
