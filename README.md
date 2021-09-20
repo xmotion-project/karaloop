@@ -23,7 +23,6 @@ into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, i
 * [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0)
 * [karaloop P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0)
 * [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)
-* [*Work in Progress*](https://github.com/xmotion-project/xMotion/wiki/Work-in-Progress)
 
 Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges ([karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), C), potentiometers and microswitches ([karaloop P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0), C), and magnetomers and optical flow sensors ([karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0), c and CL). 
 
@@ -33,11 +32,11 @@ The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_r
 
 The [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
 
-## Credits
+## First contributors and sponsors
 
-The prototype development work was partially sponsored from 2018 to 2021 by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán while affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The prototype development work shared in this repository was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (10.2018 - 04.2021) and [Wyss Center](https://wysscenter.ch/) (03.2019 - 09.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
-Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of the werable prototypes in this repository.
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and I from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
 ## Licenses
 
