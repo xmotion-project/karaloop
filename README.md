@@ -42,6 +42,9 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Contributing to **karaloop**
 
+:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+
+
 ## Credits
 
 The prototype development work of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (03.2019 - 09.2021) and [Wyss Center](https://wysscenter.ch/) (10.2018 - 04.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
