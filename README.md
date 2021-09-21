@@ -66,7 +66,7 @@ Tell us what do you want to improve in the *Improvements message board*. Please 
 
 #### **Do you want to engage with the community or share your work?**
 
-Reach to the *General message board*: 
+Leave your messages at the *General message board*: 
 
 * [karaloop Discussions General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
 
