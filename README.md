@@ -64,6 +64,12 @@ Tell us what do you want to improve in the *Improvements message board*. Please 
 
 * [karaloop Discussions Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
 
+#### **Do you want to engage with the community or share your work?**
+
+Reach to the *General message board*: 
+
+* [karaloop Discussions General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
+
 ## Credits
 
 The prototype development work of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (03.2019 - 09.2021) and [Wyss Center](https://wysscenter.ch/) (10.2018 - 04.2021) through grants awarded while I (Ferran Galán) was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
