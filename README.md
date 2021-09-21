@@ -15,7 +15,7 @@ The **karaloop** project is an initiative to advance the development of accessib
 
 The primary goal is to enable ubiquitous human-device interaction to all, regardles of physical abilities and environmental constrains.     
 
-## Contents of this repository
+## Contents
 
 This repository contains a collection of wearable prototypes which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device.
@@ -34,13 +34,13 @@ The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_r
 
 We believe that the open source movement can foster mass technological inclusivity, accessibility and education. 
 
-All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses. Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and contents in README files, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
+All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses [approved by the Open Source Initiative (OSI)](https://opensource.org/licenses/alphabetical). Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and contents in README files, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
 
 ## Trademark
 
 **KARALOOP** is a registered trademark.
 
-## How to contribute to **karaloop**
+## Contributing to **karaloop**
 
 ## Credits
 
