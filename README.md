@@ -42,7 +42,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Contributing to **karaloop**
 
-:+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
+:relaxed::+1::tada: First off, thanks for taking the time to contribute! :tada::+1::relaxed:
 
 This project and everyone participating in it is governed by the [**karaloop** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
