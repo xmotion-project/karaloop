@@ -46,8 +46,19 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 This project and everyone participating in it is governed by the [**karaloop** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
+#### **Do you have questions?**
 
+We have the **karaloop** Q&A message board where the community chimes in with helpful advice if you have questions:
 
+* [karaloop Discussions Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
+
+#### **Do you have ideas about new features on existing prototypes or new designs?**
+
+Suggest your ideas in the **karaloop** Ideas message board. Please do not open an issue on GitHub until you have discussed your ideas with the *maintainers*.
+
+* [karaloop Discussions Ideas](https://github.com/xmotion-project/karaloop/discussions/categories/ideas)
+
+#### **Do you want to contribute improving documentation and Wiki?**
 
 ## Credits
 
