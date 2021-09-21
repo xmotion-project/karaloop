@@ -78,7 +78,7 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 
 ## Contact
 
-For any inquiries not included in *Contributing to **karaloop***, please reach to as at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
+For any inquiries not included in *Contributing to **karaloop***, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
 <p align="right">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="20%" />	
