@@ -80,8 +80,9 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 
 For any inquiries not mentioned in *Contributing to **karaloop***, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> The contents in this README.md file is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 <p align="right">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="20%" />	
 </p>
-
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /> The contents in this README.md file is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
