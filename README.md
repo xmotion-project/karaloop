@@ -38,7 +38,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Trademark
 
-***karaloop*** is a registered trademark. Find the **karaloop** trademark guidelines [here]().
+**karaloop** is a registered trademark. Find the **karaloop** trademark guidelines [here]().
 
 ## Contributing to **karaloop**
 
