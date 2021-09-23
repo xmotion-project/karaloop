@@ -83,3 +83,5 @@ For any inquiries not mentioned in *Contributing to **karaloop***, please reach 
 <p align="right">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="20%" />	
 </p>
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
