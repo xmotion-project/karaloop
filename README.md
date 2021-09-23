@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="80%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo_combined.jpg" width="80%" />	
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 :relaxed::+1::tada: First off, thanks for taking the time to contribute! :tada::+1::relaxed:
 
-This project and everyone participating in it is governed by the [**karaloop** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
+This project and everyone participating in it is governed by the [**karaloop** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 
 #### **Do you have questions?**
 
@@ -78,8 +78,8 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 
 ## Contact
 
-For any inquiries not included in *Contributing to **karaloop***, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
+For any inquiries not mentioned in *Contributing to **karaloop***, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
-<p align="right">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop logo.png" width="20%" />	
+<p align="center">
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo_combined.jpg" width="40%" />	
 </p>
