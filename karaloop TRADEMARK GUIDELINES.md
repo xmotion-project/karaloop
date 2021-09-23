@@ -31,5 +31,13 @@ This policy covers:
 1. The Project's word trademarks and service marks (the "Word Marks"): "KARALOOP" (whether or not in capitals)
 2. The logos (the "Logos"): 
 
+<p align="center">
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo_combined.jpg" width="50%" />	
+</p>
+
+<p align="center">
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo.jpg" width="50%" />	
+</p>
+
 
 
