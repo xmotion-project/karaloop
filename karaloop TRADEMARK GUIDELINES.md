@@ -36,7 +36,7 @@ This policy covers:
 </p>
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo.jpg" width="50%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo.jpg" width="30%" />	
 </p>
 
 
