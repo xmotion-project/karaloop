@@ -32,11 +32,11 @@ This policy covers:
 2. The logos (the "Logos"): 
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo_combined.jpg" width="50%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_combined.jpg" width="50%" />	
 </p>
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/karaloop_logo.jpg" width="15%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo.jpg" width="15%" />	
 </p>
 
 3. And the unique visual styling of our online media and packaging (the "Trade Dress").
@@ -69,4 +69,4 @@ See Universal considerations for all uses, above, which also apply.
 
 #### Distribution of unmodified source files, unmodified executable code we have compiled, products, and the making of products
 
-When you redistribute an unmodified copy of our software and hardware, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on the software and hardware designs to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified source, executable code, products and the making of products. This kind of use only applied if you are redistributing an official distribution from this Project that has not been changed in any way. You can find files for the Logos and approved designs for packaging [here]().
+When you redistribute an unmodified copy of our software and hardware, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on the software and hardware designs to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified source, executable code, products and the making of products. This kind of use only applied if you are redistributing an official distribution from this Project that has not been changed in any way. You can find files for the Logos and approved designs for packaging [here](https://github.com/xmotion-project/karaloop/tree/main/marks).
