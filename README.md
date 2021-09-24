@@ -38,7 +38,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ## Trademark
 
-**KARALOOP** is a registered trademark.
+**karaloop** is a registered trademark. Find the **karaloop** trademark guidelines [here](https://github.com/xmotion-project/karaloop/blob/main/karaloop%20TRADEMARK%20GUIDELINES.md).
 
 ## Contributing to **karaloop**
 
@@ -72,7 +72,7 @@ Leave your messages at the *General message board*:
 
 ## Credits
 
-The prototype development work of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (03.2019 - 09.2021) and [Wyss Center](https://wysscenter.ch/) (10.2018 - 04.2021) through grants awarded while I was affiliated with [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The prototype development work of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) (03.2019 - 09.2021) and [Wyss Center](https://wysscenter.ch/) (10.2018 - 04.2021) through grants awarded while I was at [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
 Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and I from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [karaloop P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
