@@ -11,7 +11,7 @@ In this Policy we are not trying to limit the lawful use of the Project's tradem
 law can be ambiguous, so we hope to provide enough clarity for you to understand whether we will consider your use licensed or non-infringing.
 
 The sections that follow describe what trademarks are covered by this Policy, as well as uses of the trademarks that are allowed without additional permission. 
-If you want to use the Project's trademarks in ways that are not described in this Policy, email karaloop@protonmail.com with trademark use in the subject. We are reasonable and
+If you want to use the Project's trademarks in ways that are not described in this Policy, email karaloop@protonmail.com with *Trademark Use* in the subject. We are reasonable and
 work almost anything out provided we get a request in advance. Any use that does not comply with this Policy or for which we have not separately provided written permission is 
 not a use that we have approved, so you must decide for yourself whether the use is nevertheless lawful.
 
