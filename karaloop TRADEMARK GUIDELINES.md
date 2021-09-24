@@ -67,6 +67,6 @@ See Universal considerations for all uses, above, which also apply.
 
 ### Uses we consider non-infringing
 
-#### Distribution of unmodified source code or unmodified executable code we have compiled Covered Source and Products, and the Making of Products
+#### Distribution of unmodified source files, unmodified executable code we have compiled, products, and the making of products
 
 When you redistribute an unmodified copy of our software and hardware, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on the software and hardware designs to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified source, executable code, products and the making of products. This kind of use only applied if you are redistributing an official distribution from this Project that has not been changed in any way. You can find files for the Logos and approved designs for packaging [here]().
