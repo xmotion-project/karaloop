@@ -65,14 +65,42 @@ You agree that you will not acquire any rights in the Marks and that any goodwil
 
 See Universal considerations for all uses, above, which also apply.
 
-### Uses we consider non-infringing
+### Accepable uses
 
 #### Distribution of unmodified source files, unmodified executable code we have compiled, and unmodified products and the making of products
 When you redistribute an unmodified copy of our software and hardware, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on the software and hardware designs to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified source, executable code, products and the making of products. This kind of use only applied if you are redistributing an official distribution from this Project that has not been changed in any way. You can find files for the Logos and approved designs for packaging [here](https://github.com/xmotion-project/karaloop/tree/main/marks).
 
 #### Distribution of modified source files, executable code that you have compiled, and modified products and the making of products
-You may use the Word Marks, but not the Logos, to truthfully describe the origin of the software and hardware that you are providing, that is, that the materials you are distributing are a modification of ours. You may say, for example, that "this design is derived from the source files for the **karaloop** P3.0 prototype."
+You may use the Word Marks, but not the Logos, to truthfully describe the origin of the software and hardware that you are providing, that is, that the materials you are distributing are a modification of ours. You may say, for example, that "this design is derived from the source files for the [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)."
 
-<<Example #1: This source code is distributed with an "--enable-official-branding" flag. By default, this software will compile without official branding. As long as you do not modify the code or enable this flag before compiling, any use of the <<~Mark>> in the compiled code is noninfringing.>>
+Of course, you can place your own trademarks or logos on modified versions to which you have made substantive modifications, because by modifying the source files you have become the origin of that exact version. In that case, you should not use our Logos. 
 
-Of course, you can place your own trademarks or logos on versions of the software to which you have made substantive modifications, because by modifying the software you have become the origin of that exact version. In that case, you should not use our Logos. Our source code version therefore does not contain our Logo data files.
+#### Statements about compatibility, interoperability or derivation
+You may use the Word Marks, but not the Logos, to truthfully describe the relationship between your software/hardware and ours. Our Mark should be used after a verb or preposition that describes the relationship between your software/hardware and ours. So you may say, for example, "Bob's software for the [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)" but may not say "Bob's [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software." Some other examples that may work for you are:
+
+[Your hardware] works with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+[Your hardware] uses [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+[Your hardware] is compatible with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+[Your software] runs on [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
+[Your software] for use with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
+[Your software] for [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) harware
+
+#### Use of trademarks to show community affiliation
+This section discusses the use of our Marks for software such an application themes, skins and personas. The use of our Marks on websites is discussed below.
+
+You may use the Word Marks and the Logos in themes, personas, or skins for applications to show your support for the Project, provided that the use is non-commercial and the use is clearly decorative, as contrasted with a use that appears to be the branding for a website or application.
+
+### Uses for which we are granting a license
+
+#### Distribution of modified software
+<<Example #1: You may use the Word Marks and the Logos for the distribution of code (source or executable) on the condition that any executable is built from the official Project source code and that any modifications are limited to switching on or off features already included in the software, translations into other languages, and incorporating bug-fix patches.>>
+
+<<Example #2: You may use the Word Marks and the Logos for the distribution of executable code on the condition that it is made from official Project source code using the procedure documented for creating an executable found at <<location of build instructions.>>
+
+#### Distribution of software preloaded on hardware
+<<Example #1: You may use the Word Marks and the Logos in association with hardware devices on the condition that the executable installed on the device is the official source executable for the Project, and that you do not suggest that the Project is the source of the hardware device itself but rather than the Marks are for the software incorporated into the device.>>
+
+<<Example #2: You may use use the Word Marks and the Logos in association with hardware devices on the condition that the software installed on the device is modified only so far as necessary to operate on the hardware platforms and the essential functions of the software are unchanged, and that you do not suggest that the Project is the source of the hardware device itself but rather than the Marks are for the software incorporated into the device.>>
+
+### Uses we consider infringing without seeking further permission from us
+We will likely consider using the Marks in a software distribution that combines our software with any other software program an infringement of our Marks. We would consider your software "combined" with ours if you create a single executable for both software programs, as well as if by installing our software it automatically installs yours. We would not consider your software "combined" with ours if it is on the same media but requires separate, independent action to install it.
