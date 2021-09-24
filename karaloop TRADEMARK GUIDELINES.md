@@ -67,6 +67,12 @@ See Universal considerations for all uses, above, which also apply.
 
 ### Uses we consider non-infringing
 
-#### Distribution of unmodified source files, unmodified executable code we have compiled, products, and the making of products
-
+#### Distribution of unmodified source files, unmodified executable code we have compiled, and unmodified products and the making of products
 When you redistribute an unmodified copy of our software and hardware, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on the software and hardware designs to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified source, executable code, products and the making of products. This kind of use only applied if you are redistributing an official distribution from this Project that has not been changed in any way. You can find files for the Logos and approved designs for packaging [here](https://github.com/xmotion-project/karaloop/tree/main/marks).
+
+#### Distribution of modified source files, executable code that you have compiled, and modified products and the making of products
+You may use the Word Marks, but not the Logos, to truthfully describe the origin of the software and hardware that you are providing, that is, that the materials you are distributing are a modification of ours. You may say, for example, that "this design is derived from the source files for the **karaloop** P3.0 prototype."
+
+<<Example #1: This source code is distributed with an "--enable-official-branding" flag. By default, this software will compile without official branding. As long as you do not modify the code or enable this flag before compiling, any use of the <<~Mark>> in the compiled code is noninfringing.>>
+
+Of course, you can place your own trademarks or logos on versions of the software to which you have made substantive modifications, because by modifying the software you have become the origin of that exact version. In that case, you should not use our Logos. Our source code version therefore does not contain our Logo data files.
