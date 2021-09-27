@@ -78,12 +78,12 @@ Of course, you can place your own trademarks or logos on modified versions to wh
 #### Statements about compatibility, interoperability or derivation
 You may use the Word Marks, but not the Logos, to truthfully describe the relationship between your software/hardware and ours. Our Mark should be used after a verb or preposition that describes the relationship between your software/hardware and ours. So you may say, for example, "Bob's software for the [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)" but may not say "Bob's [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software." Some other examples that may work for you are:
 
-[Your hardware] works with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
-[Your hardware] uses [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
-[Your hardware] is compatible with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
-[Your software] runs on [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
-[Your software] for use with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
-[Your software] for [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) harware
+* [Your hardware] works with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+* [Your hardware] uses [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+* [Your hardware] is compatible with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) software
+* [Your software] runs on [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
+* [Your software] for use with [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) hardware
+* [Your software] for [karaloop P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) harware
 
 #### Use of trademarks to show community affiliation
 This section discusses the use of our Marks for software such an application themes, skins and personas. The use of our Marks on websites is discussed below.
