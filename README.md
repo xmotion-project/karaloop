@@ -48,7 +48,7 @@ This project and everyone participating in it is governed by the [**karaloop** C
 
 #### **Do you have questions?**
 
-We have the *Q&A message board* where the community chimes in with helpful advice if you have questions:
+We have the *Q&A message board* where the community steps in with helpful advice if you have questions:
 
 * [karaloop Discussions Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
 
