@@ -48,27 +48,27 @@ This project and everyone participating in it is governed by the [**karaloop** C
 
 #### **Do you have questions?**
 
-We have the *Q&A message board* where the community steps in with helpful advice if you have questions:
+We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
 
-* [karaloop Discussions Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
+* [karaloop Discussions: Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
 
 #### **Do you have ideas about new features on existing prototypes or new designs?**
 
 Let's discuss your ideas in the *Ideas message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
 
-* [karaloop Discussions Ideas](https://github.com/xmotion-project/karaloop/discussions/categories/ideas)
+* [karaloop Discussions: Ideas](https://github.com/xmotion-project/karaloop/discussions/categories/ideas)
 
 #### **Do you want to contribute improving the documentation, wiki or the project workflows/tooling?**
 
 Tell us what do you want to improve in the *Improvements message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
 
-* [karaloop Discussions Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
+* [karaloop Discussions: Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
 
 #### **Do you want to engage with the community or share your work?**
 
 Leave your messages at the *General message board*: 
 
-* [karaloop Discussions General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
+* [karaloop Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
 
 ## Credits
 
