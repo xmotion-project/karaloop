@@ -12,7 +12,7 @@ If you want to use the Project's trademarks in ways that are not described in th
 
 ## Our commitment to open source principles
 
-We want to encourage and facilitate the use of our trademarks by the community, but do so in a way that still ensures that the trademarks are meaningful as a source and quality indicator for our materials and the associated goods and services and continue to embody the high reputation of the materials and the community associated with it. This Policy therefore tries to strike the proper balance between: 1) our need to ensure that the Project's trademarks remain reliable indicators of the qualities that they are meant to preserve and 2) our community members' desire to be full participants in the Project.
+We want to encourage and facilitate the use of our trademarks by the community, but do so in a way that still ensures that the trademarks are meaningful as a source and quality indicator for our Materials and the associated goods and services and continue to embody the high reputation of the Materials and the community associated with it. This Policy therefore tries to strike the proper balance between: 1) our need to ensure that the Project's trademarks remain reliable indicators of the qualities that they are meant to preserve and 2) our community members' desire to be full participants in the Project.
 
 ## Trademarks subject to the guidelines
 
@@ -37,13 +37,13 @@ This Policy encompasses all trademarks and service marks, whether Word Marks, Lo
 
 ## Universal consideration for all uses
 
-Whenever you use one of the Marks, you must always do so in a way that does not mislead anyone, either directly or by omission, about exactly what they are getting and from whom. The law reflects this requirement in two major ways described in more detail below: it prohibits creating a "likelihood of confusion" but allows for "nominative use." For example, you cannot say you are distributing **karaloop** Materials when you're distributing a modified version of them, because people would be confused when they are not getting the same features and functionality they would get if they downloaded the Materials directly from us. You also cannot use our logo on your website in a way that suggests that your website is an official website or that we endorse your website. You can, though, say you like the **karaloop** project, that you participate in the **karaloop** community, that you are providing an unmodified version of any **karaloop** material, or that you wrote a book describing how to make a **karaloop** prototype.
+Whenever you use one of the Marks, you must always do so in a way that does not mislead anyone, either directly or by omission, about exactly what they are getting and from whom. The law reflects this requirement in two major ways described in more detail below: it prohibits creating a "likelihood of confusion" but allows for "nominative use." For example, you cannot say you are distributing **karaloop** Materials when you're distributing a modified version of them, because people would be confused when they are not getting the same features and functionality they would get if they downloaded the Materials directly from us. You also cannot use our logo on your website in a way that suggests that your website is an official website or that we endorse your website. You can, though, say you like the **karaloop** project, that you participate in the **karaloop** community, that you are providing an unmodified version of any **karaloop** Material, or that you wrote a book describing how to make a **karaloop** prototype.
 
 This fundamental requirement, that it is always clear to people what they are getting and from whom, is reflected throughout this Policy. It should also serve as your guide if you are not sure about how you are using the Marks.
 
 In addition:
 
-You may not use the Marks in association with the use or distribution of the **karaloop** materials if you are also not in compliance with their copyright license.
+You may not use the Marks in association with the use or distribution of the **karaloop** Materials if you are also not in compliance with their copyright license.
 
 You may not use or register, in whole or in part, the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
 
