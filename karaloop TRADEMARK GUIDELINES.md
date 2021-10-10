@@ -21,7 +21,7 @@ We want to encourage and facilitate the use of our trademarks by the community, 
 This policy covers:
 
 1. The Project's registered word trademarks and service marks (the "Word Marks"): "KARALOOP" (whether or not in capitals)
-2. The registered logos (the "Logos"): 
+2. The registered logo (the "Logo"): 
 
 <p align="center">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_combined.jpg" width="50%" />	
