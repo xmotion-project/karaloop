@@ -27,10 +27,6 @@ This policy covers:
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_combined.jpg" width="50%" />	
 </p>
 
-<p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo.jpg" width="15%" />	
-</p>
-
 3. And the unique visual styling of our online media and packaging (the "Trade Dress").
 
 This Policy encompasses all trademarks and service marks, whether Word Marks, Logos or Trade Dress, which are collectively referred to as the “Marks.” Some Marks may not be registered, but registration does not equal ownership of trademarks. This Policy covers our Marks whether they are registered or not.
