@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_combined.jpg" width="80%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo.jpg" width="80%" />	
 </p>
 
 <p align="center">
@@ -81,5 +81,5 @@ Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](
 For any inquiries not mentioned in *Contributing to ***karaloop***, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_combined.jpg" width="40%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo.jpg" width="40%" />	
 </p>
