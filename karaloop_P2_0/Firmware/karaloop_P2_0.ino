@@ -227,7 +227,7 @@ void Potentiometers_HPfilter()
 }
 
 // ----------------------------------------------------------------------------------------
-// Detecting wheel movements movements
+// Detecting wheel movements
 // ----------------------------------------------------------------------------------------
 void Potentiometers_Detection()
 {
