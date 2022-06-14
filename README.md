@@ -71,9 +71,9 @@ Leave your messages at the *General message board*:
 * [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)-->
 ## Credits
 
-The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded while I was at [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán at [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
-Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and I from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
 ## Contact
 
