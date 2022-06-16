@@ -1,4 +1,10 @@
-// Copyright (C) 2021 University of Geneva
+// The prototype development work of karaloop P1.0, P2.0 and P3.0 was partially
+// sponsored by Fondation Privée des HUG and Wyss Center through grants awarded
+// to Ferran Galán at University of Geneva.
+
+// Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from HEPIA,
+// and Ferran Galán from University of Geneva contributed to the conception and
+// development of karaloop P1.0, P2.0 and P3.0.
 
 // Licensed under the Apache License, Version 2.0 (the "License");
 // you may not use this file except in compliance with the License.
@@ -64,7 +70,7 @@ void setup()
   background(255);
 
   myPort = new Serial(this, "COM14", 9600);
-  myPort.bufferUntil('\n'); 
+  myPort.bufferUntil('\n');
   println((Object[])Serial.list()); // Print active ports
 
   cp5 = new ControlP5(this);
@@ -76,7 +82,7 @@ void setup()
 
   // Add a new tab
   cp5.addTab("Control")
-    .setHeight(50) 
+    .setHeight(50)
     .setWidth(150)
     .getCaptionLabel()
     .setFont(font)
@@ -164,7 +170,7 @@ void draw()
 
     //Plot signals
     for (int i = 0; i<6; i++)
-    {    
+    {
       plots[i].beginDraw();
       plots[i].drawBackground();
       plots[i].drawBox();
@@ -177,7 +183,7 @@ void draw()
       plots[i].endDraw();
     }
 
-    // Display set thresholds 
+    // Display set thresholds
     float offset_seuil1 = map(seuil1, 0, 4095, 315, 115);
     float offset_seuil2 = map(seuil2, 0, 4095, 565, 365);
     float offset_seuil3 = map(seuil3, 0, 4095, 815, 615);
@@ -195,9 +201,9 @@ void draw()
       inc=0;
     }
 
-    // Add and remove data points 
-    if ( millis() > previousMillis + duration) 
-    {   
+    // Add and remove data points
+    if ( millis() > previousMillis + duration)
+    {
       inc++;
 
       if (newData) {
@@ -237,7 +243,7 @@ void Init_graph() {
 
   for (int i = 0; i<6; i++)
   {
-    plots[i] = new GPlot(this); 
+    plots[i] = new GPlot(this);
 
     if (i>2) {
       espacementX = espacementXinit + 700;
@@ -273,13 +279,13 @@ void Init_graph() {
 }
 
 // ------------------------------------------------------------------------------------
-// ControlEvent : Get informations of CP5 
+// ControlEvent : Get informations of CP5
 //-------------------------------------------------------------------------------------
 void controlEvent(ControlEvent theControlEvent) {
 
   // Tab events
   if (theControlEvent.isTab()) {
-    String tab = theControlEvent.getTab().getName();  
+    String tab = theControlEvent.getTab().getName();
 
     // Tab display
     if (tab == "default") {
@@ -303,7 +309,7 @@ void serialEvent(Serial myPort) {
 
   inString = myPort.readString(); // Get new value from serial port
 
-  if (inString != null) { 
+  if (inString != null) {
 
     sensor = inString.trim().split(";"); //Split and remove withespace from string
 
@@ -315,7 +321,7 @@ void serialEvent(Serial myPort) {
 
     newData = true;
   }
-} 
+}
 
 /*
 // ------------------------------------------------------------------------------------
