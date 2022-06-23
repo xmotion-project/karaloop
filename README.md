@@ -11,7 +11,7 @@
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
 
-The ***karaloop*** project is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
+***karaloop*** is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
 
 The primary goal is to enable ubiquitous human-device interaction to all, regardless of physical abilities, environmental and socioeconomical constrains.     
 
