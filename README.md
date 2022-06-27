@@ -40,13 +40,13 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ***karaloop*** is a registered trademark. Find the ***karaloop*** trademark guidelines [here](https://github.com/xmotion-project/karaloop/blob/main/karaloop%20TRADEMARK%20GUIDELINES.md).
 
-<!---## Contributing to ***karaloop***
+## Contributing to ***karaloop***
 
 :relaxed::+1::tada: First of all, thank you for taking the time to contribute! :tada::+1::relaxed:
 
 This project and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 
- #### **Do you have questions?**
+ <!---#### **Do you have questions?**
 
 We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
 
