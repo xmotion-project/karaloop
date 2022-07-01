@@ -72,7 +72,9 @@ Leave your messages at the *General message board*:
 
 ## Credits
 
-The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to [Ferran Galán](https://scholar.google.com/citations?user=XTcJiLwAAAAJ) at [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The karaloop initiative was inspired by Ferran Galán's previous work [ChinMotion]() and [ProMotion](). 
+
+The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants/support awarded to [Ferran Galán](https://scholar.google.com/citations?user=XTcJiLwAAAAJ) at [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
 Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
