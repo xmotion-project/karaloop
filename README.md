@@ -11,7 +11,7 @@
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
 
-The ***karaloop*** project is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
+***karaloop*** is an initiative to advance the development of accessible and inclusive wearable hands-free interfaces, so in the future, anyone will be able to interact with any device, from anywhere, *without hands*, simply by performing movements of the face :relaxed:
 
 The primary goal is to enable ubiquitous human-device interaction to all, regardless of physical abilities, environmental and socioeconomical constrains.     
 
@@ -40,13 +40,13 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 ***karaloop*** is a registered trademark. Find the ***karaloop*** trademark guidelines [here](https://github.com/xmotion-project/karaloop/blob/main/karaloop%20TRADEMARK%20GUIDELINES.md).
 
-<!---## Contributing to ***karaloop***
+## Contributing to ***karaloop***
 
 :relaxed::+1::tada: First of all, thank you for taking the time to contribute! :tada::+1::relaxed:
 
 This project and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 
- #### **Do you have questions?**
+#### **Do you have questions?**
 
 We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
 
@@ -64,20 +64,23 @@ Tell us what do you want to improve in the *Improvements message board*. Please 
 
 * [***karaloop*** Discussions: Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
 
-#### **Do you want to engage with the community or share your work?**
+#### **Do you want to share your work?**
 
 Leave your messages at the *General message board*: 
 
-* [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)-->
+* [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
+
 ## Credits
 
-The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants awarded to Ferran Galán at [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The karaloop initiative was inspired by [Ferran Galán](https://scholar.google.com/citations?user=XTcJiLwAAAAJ)'s previous work [ChinMotion](https://arxiv.org/abs/1606.02711) and [ProMotion](). 
+
+The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants/support awarded to Ferran Galán at [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
 Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
 
 ## Contact
 
-For any inquiries, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
+For any other inquiries beyond the scope of [***karaloop*** Discussions](https://github.com/xmotion-project/karaloop/discussions), please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
 <p align="center">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="40%" />	
