@@ -24,7 +24,7 @@ This policy covers:
 2. The registered logo (the "Logo"): 
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo.jpg" width="50%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="50%" />	
 </p>
 
 3. And the unique visual styling of our online media and packaging (the "Trade Dress").
