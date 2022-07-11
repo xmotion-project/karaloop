@@ -69,8 +69,6 @@ Tell us what do you want to improve in the *Improvements message board*. Please 
 Leave your messages at the *General message board*: 
 
 * [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
-![image](https://user-images.githubusercontent.com/20661255/178260566-0c0e1e62-ae7c-462e-b034-99b522001933.png)
-
 
 ## Credits
 
