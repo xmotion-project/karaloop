@@ -44,7 +44,7 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 
 :relaxed::+1::tada: First of all, thank you for taking the time to contribute! :tada::+1::relaxed:
 
-This project and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
+This repository and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
 
 #### **Do you have questions?**
 
