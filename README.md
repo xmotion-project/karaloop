@@ -32,6 +32,36 @@ We believe that the open source movement can foster mass technological inclusivi
 
 All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) source and and documentation files in this repository are licensed under open source licenses [approved by the Open Source Initiative (OSI)](https://opensource.org/licenses/alphabetical). Software and firmware are licensed under [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [GNU General Public License version 3 (GPLv3)](https://www.gnu.org/licenses/gpl-3.0.en.html), hardware schematics and design files under [CERN Open Hardware Licence Version 2 - Permissive (CERN OHL-P-V2)](https://ohwr.org/cern_ohl_p_v2.pdf), and contents in README, /src, wiki and assembly guides under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).   
 
+## Contributing to ***karaloop***
+
+:relaxed::+1::tada: First of all, thank you for taking the time to contribute! :tada::+1::relaxed:
+
+This repository and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
+
+#### **Do you have questions?**
+
+We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
+
+* [***karaloop*** Discussions: Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
+
+#### **Do you have ideas about new features on existing prototypes or new designs?**
+
+Let's discuss your ideas in the *Ideas message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
+
+* [***karaloop*** Discussions: Ideas](https://github.com/xmotion-project/karaloop/discussions/categories/ideas)
+
+#### **Do you want to contribute improving the documentation, wiki or the project workflows/tooling?**
+
+Tell us what do you want to improve in the *Improvements message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
+
+* [***karaloop*** Discussions: Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
+
+#### **Do you want to share your work?**
+
+Leave your messages at the *General message board*: 
+
+* [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
+
 ## Trademark
 
 ***karaloop*** is a registered trademark. Find the ***karaloop*** trademark guidelines [here](https://github.com/xmotion-project/karaloop/blob/main/karaloop%20TRADEMARK%20GUIDELINES.md).
