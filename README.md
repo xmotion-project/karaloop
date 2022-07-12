@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="75%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="80%" />
 </p>
 
 <p align="center">	
