@@ -1,12 +1,11 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="75%" />	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="75%" />
 </p>
-
-<p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="40%" /> 
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="40%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="40%" />
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="40%" />
+<p align="center">	
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="45%" /> 
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="45%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="45%" />
+	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="45%" />
 </p>
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
@@ -39,36 +38,6 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 ## Trademark
 
 ***karaloop*** is a registered trademark. Find the ***karaloop*** trademark guidelines [here](https://github.com/xmotion-project/karaloop/blob/main/karaloop%20TRADEMARK%20GUIDELINES.md).
-
-## Contributing to ***karaloop***
-
-:relaxed::+1::tada: First of all, thank you for taking the time to contribute! :tada::+1::relaxed:
-
-This repository and everyone participating in it is governed by the [***karaloop*** Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. 
-
-#### **Do you have questions?**
-
-We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
-
-* [***karaloop*** Discussions: Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
-
-#### **Do you have ideas about new features on existing prototypes or new designs?**
-
-Let's discuss your ideas in the *Ideas message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
-
-* [***karaloop*** Discussions: Ideas](https://github.com/xmotion-project/karaloop/discussions/categories/ideas)
-
-#### **Do you want to contribute improving the documentation, wiki or the project workflows/tooling?**
-
-Tell us what do you want to improve in the *Improvements message board*. Please do not open an issue on GitHub until you and the *maintainers* come up with a roadmap.
-
-* [***karaloop*** Discussions: Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
-
-#### **Do you want to share your work?**
-
-Leave your messages at the *General message board*: 
-
-* [***karaloop*** Discussions: General](https://github.com/xmotion-project/karaloop/discussions/categories/general)
 
 ## Credits
 
