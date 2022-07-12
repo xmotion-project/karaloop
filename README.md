@@ -2,9 +2,13 @@
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="75%" />
 </p>
 
-<p align="center">	
+<p align="left">	
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Android.gif" width="40%" /> 
+</p>
+<p align="right">	
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iMacWhatsapp.gif" width="40%" />
+</p>	
+<p align="center">
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_Gaming.gif" width="40%" />
 	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo_iPhone.gif" width="40%" />
 </p>
