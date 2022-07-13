@@ -41,7 +41,7 @@ This repository and everyone participating in it is governed by the [***karaloop
 
 #### **Do you have questions?**
 
-We have the *Q&A message board* where members of the community will do their best to address any questions that you may have:
+We have the *Q&A message board* where *karaloopers* will do their best to address any questions that you may have:
 
 * [***karaloop*** Discussions: Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
 
