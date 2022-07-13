@@ -1,9 +1,9 @@
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="80%" />
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/marks/karaloop_logo_reg.jpg" width="80%" />
 </p>  
 
 <p align="center">	
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/src/ShortDemo.gif" width="90%" /> 
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/ShortDemo.gif" width="90%" /> 
 </p>
 
 Can you imagine yourself interacting with phones, tablets, computers and other devices without hands? 
@@ -17,15 +17,15 @@ The primary goal is to enable ubiquitous human-device interaction to all, regard
 This repository contains a collection of wearable prototypes which measure voluntary movements of the face and translate them 
 into mouse or keyboard commands sent via Bluetooth Low Energy (BLE) to any PC, iOS or Android device.
 
-* [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0)
-* [***karaloop*** P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0)
-* [***karaloop*** P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0)
+* [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0)
+* [***karaloop*** P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0)
+* [***karaloop*** P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0)
 
-Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges ([***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), C), potentiometers and microswitches ([***karaloop*** P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0), C), and magnetomers and optical flow sensors ([***karaloop*** P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0), c and CL). 
+Each prototype incorporates/explores different contact (C) and contactless (CL) sensing technology to capture facial movements: strain gauges ([***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0), C), potentiometers and microswitches ([***karaloop*** P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0), C), and magnetomers and optical flow sensors ([***karaloop*** P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0), c and CL). 
 
-The ***karaloop*** wearables are not finished products. The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0) and [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) are still in feasibility evaluation and development phases (TRL 3-5), [***karaloop*** P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) has been preliminary evaluated in operational environments (TRL 7).       
+The ***karaloop*** wearables are not finished products. The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0) and [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) are still in feasibility evaluation and development phases (TRL 3-5), [***karaloop*** P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) has been preliminary evaluated in operational environments (TRL 7).       
 
-[***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) use the [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
+[***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) use the [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
 
 ## Licenses
 
@@ -71,16 +71,16 @@ Leave your messages at the *General message board*:
 
 The karaloop initiative was inspired by [Ferran Galán](https://scholar.google.com/citations?user=XTcJiLwAAAAJ)'s previous work [ChinMotion](https://arxiv.org/abs/1606.02711). 
 
-The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants/support awarded to Ferran Galán at [University of Geneva](https://www.unige.ch/en/university/presentation/).
+The prototype development work of [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) was partially sponsored by [Fondation Privée des HUG](https://www.fondationhug.org/) and [Wyss Center](https://wysscenter.ch/) through grants/support awarded to Ferran Galán at [University of Geneva](https://www.unige.ch/en/university/presentation/).
 
-Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/xMotion/wiki/karaloop-P3.0).
+Quentin Praz, Ahmad Jaafar, Spiros Schoinas and Philippe Passeraub from [HEPIA](https://www.hesge.ch/hepia/), and Ferran Galán from [University of Geneva](https://www.unige.ch/en/university/presentation/) contributed to the conception and development of [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0).
 
 ## Contact
 
 For any other inquiries, please reach to us at [karaloop@protonmail.com](mailto:karaloop@protonmail.com).
 
 <p align="center">
-	<img src="https://github.com/xmotion-project/xMotion/blob/main/marks/karaloop_logo_reg.jpg" width="40%" />	
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/marks/karaloop_logo_reg.jpg" width="40%" />	
 </p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" />
