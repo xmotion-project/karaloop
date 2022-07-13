@@ -40,7 +40,7 @@ This repository and everyone participating in it is governed by the [***karaloop
 
 #### **Do you have questions?**
 
-We have the *Q&A message board* where members of the community will provide helpful advice if you have questions:
+We have the *Q&A message board* where members of the community will do their best to address any questions that you may have:
 
 * [***karaloop*** Discussions: Q&A](https://github.com/xmotion-project/karaloop/discussions/categories/q-a)
 
@@ -56,7 +56,7 @@ Tell us what do you want to improve in the *Improvements message board*. Please 
 
 * [***karaloop*** Discussions: Improvements](https://github.com/xmotion-project/karaloop/discussions/categories/improvements-documentation-wiki-workflow-tooling)
 
-#### **Do you want to share your work?**
+#### **Do you want to share or showcase your work?**
 
 Leave your messages at the *General message board*: 
 
