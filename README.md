@@ -25,7 +25,7 @@ Each prototype incorporates/explores different contact (C) and contactless (CL) 
 
 The ***karaloop*** wearables are not finished products. The Technology Readiness Level ([TRL](https://en.wikipedia.org/wiki/Technology_readiness_level)) varies across prototypes. While [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0) and [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) are still in feasibility evaluation and development phases (TRL 3-5), [***karaloop*** P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) has been preliminary evaluated in operational environments (TRL 7).       
 
-[***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) use the [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all) microcontroller. 
+[***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0), [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) use the [Adafruit Feather nRF52 Bluefruit](https://learn.adafruit.com/bluefruit-nrf52-feather-learning-guide?view=all). 
 
 ## Licenses
 
