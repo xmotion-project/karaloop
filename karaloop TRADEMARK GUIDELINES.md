@@ -57,33 +57,29 @@ See Universal considerations for all uses, above, which also apply.
 You may use the Word Marks and Logos, but not the Trade Dress, on your webpage to show your support for the Project as long as:
 
 * The website has branding that is easily distinguished from the Project Trade Dress;
-2. You own branding or naming is more prominent than any Project Marks;
-3. The Logos hyperlink to the Project website;
-4. The site does not mislead customers into thinking that either your website, service, or product is our website, service, or product; and
-5. The site clearly states that you are not affiliated with or endorsed by the Project.
+* Your own branding or naming is more prominent than any Project Marks;
+* The Logos hyperlink to the Project website;
+* The site does not mislead customers into thinking that either your website, service, or product is our website, service, or product; and
+* The site clearly states that you are not affiliated with or endorsed by the Project.
 
 #### Publications and presentations
 You can use the Word Marks in book and article titles, and the Logo in illustrations within the document, as long as the use does not suggest that we have published, endorse, or agree with your work.
 
 #### Events
-You can use the signage in the <<Brand Standards>> to promote the Project at events.
+You can use the Marks to promote the Project at events.
 
 ### Uses for which we are granting a license
 #### User groups
 You can use the Word Marks as part of your user group name provided that:
 
-The main focus of the group is the Material;
-Any Material or services the group provides are without cost;
-The group does not make a profit;
-Any charge to attend meetings are to cover the cost of the venue, food and drink only.
-Note that the Universal considerations for all uses, above, still apply, specifically, that you may not use or register the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
+* The main focus of the group are the Materials;
+* Any Material or services the group provides are without cost;
+* The group does not make a profit;
+* Any charge to attend meetings are to cover the cost of the venue, food and drink only.
+* Note that the Universal considerations for all uses, above, still apply, specifically, that you may not use or register the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
 
 #### Promotional goods
 "Promotional goods" are non-software and non-harware goods that use the Marks and that are intended to advertise the Project, promote the Project, or show membership in the Project community.
-
-<<Example #1>> You may make promotional goods for free giveaway at open source conferences and events using only the designs found on our <<Brand Standards>> site.
-
-<<Example #2>> You may make promotional goods for free giveaway at open source conferences and events provided that the goods are obtained from <<contractor for promotional goods.>>
 
 ### Uses we consider infringing without seeking further permission from us
 We will likely consider using the Marks as part of a domain name or subdomain an infringement of our Marks.
