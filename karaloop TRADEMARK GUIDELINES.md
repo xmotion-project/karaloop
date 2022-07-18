@@ -57,11 +57,15 @@ See Universal considerations for all uses, above, which also apply.
 You may use the Word Marks and Logos, but not the Trade Dress, on your webpage to show your support for the Project as long as:
 
 The website has branding that is easily distinguished from the Project Trade Dress;
+
 You own branding or naming is more prominent than any Project Marks;
+
 The Logos hyperlink to the Project website;
+
 The site does not mislead customers into thinking that either your website, service, or product is our website, service, or product; and
 The site clearly states that you are not affiliated with or endorsed by the Project.
-Publications and presentations
+
+#### Publications and presentations
 You can use the Word Marks in book and article titles, and the Logo in illustrations within the document, as long as the use does not suggest that we have published, endorse, or agree with your work.
 
 #### Events
