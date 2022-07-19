@@ -70,7 +70,7 @@ You may use the Word Marks and the Logos in themes, personas, or skins for appli
 
 ### Uses for which we are granting a license
 #### Distribution of modified Materials
-<<Example #1: You may use the Word Marks and the Logos for the distribution of Materials on the condition that any modifications are limited to switching on or off features already included in the Materials, translations into other languages, and incorporating bug-fix or corrective modifications.>>
+**Example**: You may use the Word Marks and the Logos for the distribution of Materials on the condition that any modifications are limited to switching on or off features already included in the Materials, translations into other languages, and incorporating bug-fix or corrective modifications.
 
 ### Uses we consider infringing without seeking further permission from us
 We will likely consider using the Marks in a distribution that combines our Materials with any other material an infringement of our Marks.  
