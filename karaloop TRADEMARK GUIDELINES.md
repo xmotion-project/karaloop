@@ -53,7 +53,7 @@ See Universal considerations for all uses, above, which also apply.
 
 ### Uses we consider non-infringing
 #### Distribution of unmodified Materials
-When you redistribute an unmodified copy of our Materials, you are not changing the quality or nature of it. Therefore, you may retain the Word Marks and the Logos we have placed on them to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified Materials. This kind of use only applies if you are redistributing an official distribution from this Project that has not been changed in any way.
+When you redistribute an unmodified copy of our Materials, you are not changing their quality or nature. Therefore, you may retain the Word Marks and the Logos we have placed on them to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified Materials. This kind of use only applies if you are redistributing an official distribution from this Project that has not been changed in any way.
 
 #### Distribution of modified Materials
 You may use the Word Marks, but not the Logos, to truthfully describe the origin of the Materials that you are providing, that is, that the Materials you are distributing are a modification of ours. You may say, for example, that "this code is derived from the source code for ***karaloop*** P3 firmware."
@@ -61,7 +61,7 @@ You may use the Word Marks, but not the Logos, to truthfully describe the origin
 Of course, you can place your own trademarks or logos on versions of Materials to which you have made substantive modifications, because by modifying the Materials you have become the origin of that exact version. In that case, you should not use our Logos. 
 
 #### Statements about compatibility, interoperability or derivation
-You may use the Word Marks, but not the Logos, to truthfully describe the relationship between your Materials and ours. Our Mark should be used after a verb or preposition that describes the relationship between your Materials and ours. So you may say, for example, "Bob's firmware for the ***karaloop*** P3 prototype" but may not say "Bob's ***karaloop*** P3 firmware."
+You may use the Word Marks, but not the Logos, to truthfully describe the relationship between your materials and ours. Our Mark should be used after a verb or preposition that describes the relationship between your materials and ours. So you may say, for example, "Bob's firmware for the ***karaloop*** P3 prototype" but may not say "Bob's ***karaloop*** P3 firmware."
 
 #### Use of trademarks to show community affiliation
 This section discusses the use of our Marks for software such an application themes, skins and personas. The use of our Marks on websites is discussed below.
