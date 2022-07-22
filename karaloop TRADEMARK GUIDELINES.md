@@ -2,12 +2,12 @@
 
 This document, the "Policy," outlines the ***karaloop*** project's (the "Project") policy for the use of its trademarks. While the Project uses open source licenses, the copyright license does not include an implied right or license to use its trademarks. 
 
-The role of trademarks is to provide assurance about the origin of the products or services with which the trademark is associated, but because an open source license allows your unrestricted modification of the copyrighted materials (the "Materials", e.g. illustrations, source files, code, designs, schematics, documentation), we cannot be sure that your modifications to the Project's Materials are ones that will not be misleading if distributed under the same name. Instead, this Policy describes the circumstances under which you may use the Project's trademarks.
+The role of trademarks is to provide assurance about the origin of the products or services with which the trademark is associated, enabling the public to identify the entity from which the goods or services "come from", but because an open source license allows your unrestricted modification of the copyrighted materials (the "Materials", e.g. illustrations, source files, code, designs, schematics, documentation), we cannot be sure that your modifications to the Project's Materials are ones that will not be misleading if distributed under the same name. Instead, this Policy describes the circumstances under which you may use the Project's trademarks.
 
-In this Policy we are not trying to limit the lawful use of the Project's trademarks, but rather describe for you what we consider the parameters of lawful use to be. Trademark law can be ambiguous, so we hope to provide enough clarity for you to understand whether we will consider your use licensed or non-infringing.
+Through this Policy we are not trying to limit the lawful use of the Project's trademarks, but rather describe for you what we consider the parameters of lawful use to be. Trademark law can be ambiguous, so we hope to provide enough clarity for you to understand whether or not we will consider your use licensed or non-infringing.
 
 The sections that follow describe what trademarks are covered by this Policy, as well as uses of the trademarks that are allowed without additional permission. 
-If you want to use the Project's trademarks in ways that are not described in this Policy, email karaloop@protonmail.com with *Trademark Use* in the subject. We are reasonable and work almost anything out provided we get a request in advance. Any use that does not comply with this Policy or for which we have not separately provided written permission is not a use that we have approved, so you must decide for yourself whether the use is nevertheless lawful.
+If you want to use the Project's trademarks in ways that are not described in this Policy, please send an email to karaloop@protonmail.com with *Trademark Use* in the subject. We are reasonable and can work almost anything out provided we get a request in advance. Any use that does not comply with this Policy or for which we have not separately provided written permission is not a use that we have approved, so you must decide for yourself whether the use is nevertheless lawful.
 
 ## Our commitment to open source principles
 
@@ -19,7 +19,7 @@ We want to encourage and facilitate the use of our trademarks by the community, 
 
 This policy covers:
 
-1. The Project's registered word trademarks and service marks (the "Word Marks"): "KARALOOP" (whether or not in capitals)
+1. The Project's registered word trademarks and service marks (the "Word Marks"): "KARALOOP" (whether or not in capital letters)
 2. The registered logo (the "Logo"): 
 
 <p align="center">
@@ -36,83 +36,27 @@ Whenever you use one of the Marks, you must always do so in a way that does not 
 
 This fundamental requirement, that it is always clear to people what they are getting and from whom, is reflected throughout this Policy. It should also serve as your guide if you are not sure about how you are using the Marks.
 
-In addition:
+In addition, for a correct use of the Project's Marks and to avoid any misuse, the below conditions are compulsory:
 
 You may not use the Marks in association with the use or distribution of the ***karaloop*** Materials if you are also not in compliance with their copyright license.
 
-You may not use or register, in whole or in part, the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
+You may not use or register, in whole or in part, the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name. You should never incorporate our Marks into your company's logos or designs, or in any other material, irrespective of its support, online or offline (i.e. on posters, brochures, magazines, newsletters, websites, or other marketing materials to promote your events, products or services) without our prior written consent.
 
-Trademark law does not allow your use of names or trademarks that are too similar to ours. You therefore may not use an obvious variation of any of our Marks or any phonetic equivalent, foreign language equivalent, takeoff, or abbreviation for a similar or compatible product or service. We would consider the following too similar to one of our Marks:
+You may not use any similar sign or denomination in any way that could give rise to confusion or association with our Marks. For the avoidance of doubt, you may not use any variation of any of our Marks or any phonetic equivalent, foreign language equivalent, take-off, or any sign that replicates the “look and feel” of our Marks. By way of example, we would consider the following denomination too similar to one of our Marks:
 
-Examples for ***karaloop***: "Any mark ending with the letters KARALOOP or CARALUP" and "Any mark beginning with the letters KARALOOP or CARALUP".
+Examples for ***karaloop***: "Any mark ending with the letters KARALOOP or CARALUP" and "Any mark beginning with the letters KARALOOP or CARALUP". We are not bound by these examples, they are only provided for clarity.
+
+You may not use the Mark:
+* as a verb or noun (instead it should be used only as an adjective followed by the generic name/noun), 
+* in its plural or possessive form
+* as an abbreviation or a similar or compatible form
+* combined with any other mark
+* more prominently than the name of your own company, product or service.
+* in a way aimed to show false advertising, misleading information/ promotional materials, etc.).
 
 You agree that you will not acquire any rights in the Marks and that any goodwill generated by your use of the Marks inures solely to our benefit.
 
-## Use for Materials
-See Universal considerations for all uses, above, which also apply.
-
-### Uses we consider non-infringing
-#### Distribution of unmodified Materials
-When you redistribute an unmodified copy of our Materials, you are not changing their quality or nature. Therefore, you may retain the Word Marks and the Logos we have placed on them to identify your redistribution -- whether that redistribution is made by optical media, memory stick or download of unmodified Materials. This kind of use only applies if you are redistributing an official distribution from this Project that has not been changed in any way.
-
-#### Distribution of modified Materials
-You may use the Word Marks, but not the Logos, to truthfully describe the origin of the materials that you are providing, that is, that the materials you are distributing are a modification of ours. You may say, for example, that "this code is derived from the source code for ***karaloop*** P3.0 firmware."
-
-Of course, you can place your own trademarks or logos on versions of Materials to which you have made substantive modifications, because by modifying the Materials you have become the origin of that exact version. In that case, you should not use our Logos. 
-
-#### Statements about compatibility, interoperability or derivation
-You may use the Word Marks, but not the Logos, to truthfully describe the relationship between your materials and ours. Our Mark should be used after a verb or preposition that describes the relationship between your materials and ours. So you may say, for example, "Bob's firmware for the ***karaloop*** P3.0" but may not say "Bob's ***karaloop*** P3.0 firmware."
-
-#### Use of trademarks to show community affiliation
-This section discusses the use of our Marks for software such an application themes, skins and personas. The use of our Marks on websites is discussed below.
-
-You may use the Word Marks and the Logos in themes, personas, or skins for applications to show your support for the Project, provided that the use is non-commercial and the use is clearly decorative, as contrasted with a use that appears to be the branding for a website or application.
-
-### Uses for which we are granting a license
-#### Distribution of modified Materials
-*Example*: You may use the Word Marks and the Logos for the distribution of Materials on the condition that any modifications are limited to switching on or off features already included in the Materials, translations into other languages, and incorporating bug-fix or corrective modifications.
-
-### Uses we consider infringing without seeking further permission from us
-We will likely consider using the Marks in a distribution that combines our Materials with any other material an infringement of our Marks.  
-
-We would likely consider using the Marks on any hardware device an infringement of our Marks.
-
-## Use for non-Materials goods and services
-See Universal considerations for all uses, above, which also apply.
-
-### Uses we consider non-infringing
-#### Websites
-You may use the Word Marks and Logos, but not the Trade Dress, on your webpage to show your support for the Project as long as:
-
-* The website has branding that is easily distinguished from the Project Trade Dress;
-* Your own branding or naming is more prominent than any Project Marks;
-* The Logos hyperlink to the Project website;
-* The site does not mislead customers into thinking that either your website, service, or product is our website, service, or product; and
-* The site clearly states that you are not affiliated with or endorsed by the Project.
-
-#### Publications and presentations
-You can use the Word Marks in book and article titles, and the Logo in illustrations within the document, as long as the use does not suggest that we have published, endorse, or agree with your work.
-
-#### Events
-You can use the Marks to promote the Project at events.
-
-### Uses for which we are granting a license
-#### User groups
-You can use the Word Marks as part of your user group name provided that:
-
-* The main focus of the group are the Materials;
-* Any Material or services the group provides are without cost;
-* The group does not make a profit;
-* Any charge to attend meetings are to cover the cost of the venue, food and drink only.
-* Note that the Universal considerations for all uses, above, still apply, specifically, that you may not use or register the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name.
-
-#### Promotional goods
-"Promotional goods" are non-Materials goods that use the Marks and that are intended to advertise the Project, promote the Project, or show membership in the Project community.
-
-### Uses we consider infringing without seeking further permission from us
-We will likely consider using the Marks as part of a domain name or subdomain an infringement of our Marks.
-
-We would likely consider using the Marks on promotional goods for sale an infringement of our Marks.
+We reserve all rights to act against any infringing acts, either resulting from the violation of the Policy terms as mentioned above or from the rights stipulated by the provisions of the Trademark Law, and to bring such infringing acts to the attention of the competent legal bodies in order to restore our rights and seek compensation for any damages.
 
 ## General Information
 ### Trademark marking and legends
