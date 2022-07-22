@@ -42,9 +42,7 @@ In addition, for a correct use of the Project's Marks and to avoid any misuse, t
 
 2. You may not use or register, in whole or in part, the Marks as part of your own trademark, service mark, domain name, company name, trade name, product name or service name. You should never incorporate our Marks into your company's logos or designs, or in any other material, irrespective of its support, online or offline (i.e. on posters, brochures, magazines, newsletters, websites, or other marketing materials to promote your events, products or services) without our prior written consent.
 
-3. You may not use any similar sign or denomination in any way that could give rise to confusion or association with our Marks. For the avoidance of doubt, you may not use any variation of any of our Marks or any phonetic equivalent, foreign language equivalent, take-off, or any sign that replicates the “look and feel” of our Marks. By way of example, we would consider the following denomination too similar to one of our Marks:
-
-Examples for ***karaloop***: "Any mark ending with the letters KARALOOP or CARALUP" and "Any mark beginning with the letters KARALOOP or CARALUP". We are not bound by these examples, they are only provided for clarity.
+3. You may not use any similar sign or denomination in any way that could give rise to confusion or association with our Marks. For the avoidance of doubt, you may not use any variation of any of our Marks or any phonetic equivalent, foreign language equivalent, take-off, or any sign that replicates the “look and feel” of our Marks. By way of example, we would consider the following denomination too similar to one of our Marks: "Any mark ending with the letters KARALOOP or CARALUP" and "Any mark beginning with the letters KARALOOP or CARALUP". We are not bound by these examples, they are only provided for clarity.
 
 4. You may not use the Mark:
 * as a verb or noun (instead it should be used only as an adjective followed by the generic name/noun), 
