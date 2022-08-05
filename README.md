@@ -36,9 +36,9 @@ All (i.e. software, firmware, circuit schematics, CAD designs, assembly guides) 
 [***karaloop*** P1.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P1.0) [CH000014], [P2.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P2.0) [CH000015] and [P3.0](https://github.com/xmotion-project/karaloop/wiki/karaloop-P3.0) [CH000016] are [certified](https://certification.oshwa.org/) open source hardware by the [Open Source Hardware Association (OSHWA)](https://www.oshwa.org/). 
 
 <p align="left">
-	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000014.svg?sanitize=true" width="10%" />
-	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000015.svg?sanitize=true" width="10%" />
-	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000016.svg?sanitize=true" width="10%" />
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000014.svg?sanitize=true" width="11%" />
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000015.svg?sanitize=true" width="11%" />
+	<img src="https://github.com/xmotion-project/karaloop/blob/main/src/CH000016.svg?sanitize=true" width="11%" />
 </p> 
 
 ## Trademark
